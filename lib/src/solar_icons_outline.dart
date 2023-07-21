@@ -7,2498 +7,2498 @@ class SolarIconsOutline {
 
   static const String _fontFamily = 'SolarIconsOutline';
 
-  static const SolarIconsData Forward =
+  static const SolarIconsData forward =
       SolarIconsData(0xe900, fontFamily: _fontFamily);
-  static const SolarIconsData Inbox =
+  static const SolarIconsData inbox =
       SolarIconsData(0xe901, fontFamily: _fontFamily);
-  static const SolarIconsData Letter_Opened =
+  static const SolarIconsData letterOpened =
       SolarIconsData(0xe902, fontFamily: _fontFamily);
-  static const SolarIconsData Letter_Unread =
+  static const SolarIconsData letterUnread =
       SolarIconsData(0xe903, fontFamily: _fontFamily);
-  static const SolarIconsData Letter =
+  static const SolarIconsData letter =
       SolarIconsData(0xe904, fontFamily: _fontFamily);
-  static const SolarIconsData Mailbox =
+  static const SolarIconsData mailbox =
       SolarIconsData(0xe905, fontFamily: _fontFamily);
-  static const SolarIconsData Multiple_Forward_Left =
+  static const SolarIconsData multipleForwardLeft =
       SolarIconsData(0xe906, fontFamily: _fontFamily);
-  static const SolarIconsData Multiple_Forward_Right =
+  static const SolarIconsData multipleForwardRight =
       SolarIconsData(0xe907, fontFamily: _fontFamily);
-  static const SolarIconsData Paperclip_2 =
+  static const SolarIconsData paperclip2 =
       SolarIconsData(0xe908, fontFamily: _fontFamily);
-  static const SolarIconsData Paperclip_Rounded_2 =
+  static const SolarIconsData paperclipRounded2 =
       SolarIconsData(0xe909, fontFamily: _fontFamily);
-  static const SolarIconsData Paperclip_Rounded =
+  static const SolarIconsData paperclipRounded =
       SolarIconsData(0xe90a, fontFamily: _fontFamily);
-  static const SolarIconsData Paperclip =
+  static const SolarIconsData paperclip =
       SolarIconsData(0xe90b, fontFamily: _fontFamily);
-  static const SolarIconsData Pen_2 =
+  static const SolarIconsData pen2 =
       SolarIconsData(0xe90c, fontFamily: _fontFamily);
-  static const SolarIconsData Pen_New_Round =
+  static const SolarIconsData penNewRound =
       SolarIconsData(0xe90d, fontFamily: _fontFamily);
-  static const SolarIconsData Pen_New_Square =
+  static const SolarIconsData penNewSquare =
       SolarIconsData(0xe90e, fontFamily: _fontFamily);
-  static const SolarIconsData Pen =
+  static const SolarIconsData pen =
       SolarIconsData(0xe90f, fontFamily: _fontFamily);
-  static const SolarIconsData Plain_2 =
+  static const SolarIconsData plain2 =
       SolarIconsData(0xe910, fontFamily: _fontFamily);
-  static const SolarIconsData Plain_3 =
+  static const SolarIconsData plain3 =
       SolarIconsData(0xe911, fontFamily: _fontFamily);
-  static const SolarIconsData Plain =
+  static const SolarIconsData plain =
       SolarIconsData(0xe912, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Forward =
+  static const SolarIconsData squareForward =
       SolarIconsData(0xe913, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Share_Line =
+  static const SolarIconsData squareShareLine =
       SolarIconsData(0xe914, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Dots =
+  static const SolarIconsData chatDots =
       SolarIconsData(0xe915, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Line =
+  static const SolarIconsData chatLine =
       SolarIconsData(0xe916, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Call =
+  static const SolarIconsData chatRoundCall =
       SolarIconsData(0xe917, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Check =
+  static const SolarIconsData chatRoundCheck =
       SolarIconsData(0xe918, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Dots =
+  static const SolarIconsData chatRoundDots =
       SolarIconsData(0xe919, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Like =
+  static const SolarIconsData chatRoundLike =
       SolarIconsData(0xe91a, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Line =
+  static const SolarIconsData chatRoundLine =
       SolarIconsData(0xe91b, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Money =
+  static const SolarIconsData chatRoundMoney =
       SolarIconsData(0xe91c, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Unread =
+  static const SolarIconsData chatRoundUnread =
       SolarIconsData(0xe91d, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round_Video =
+  static const SolarIconsData chatRoundVideo =
       SolarIconsData(0xe91e, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Round =
+  static const SolarIconsData chatRound =
       SolarIconsData(0xe91f, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Square_Arrow =
+  static const SolarIconsData chatSquareArrow =
       SolarIconsData(0xe920, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Square_Call =
+  static const SolarIconsData chatSquareCall =
       SolarIconsData(0xe921, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Square_Check =
+  static const SolarIconsData chatSquareCheck =
       SolarIconsData(0xe922, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Square_Code =
+  static const SolarIconsData chatSquareCode =
       SolarIconsData(0xe923, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Square_Like =
+  static const SolarIconsData chatSquareLike =
       SolarIconsData(0xe924, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Square =
+  static const SolarIconsData chatSquare =
       SolarIconsData(0xe925, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Unread =
+  static const SolarIconsData chatUnread =
       SolarIconsData(0xe926, fontFamily: _fontFamily);
-  static const SolarIconsData Check_Read =
+  static const SolarIconsData chatRead =
       SolarIconsData(0xe927, fontFamily: _fontFamily);
-  static const SolarIconsData Dialog_2 =
+  static const SolarIconsData dialog2 =
       SolarIconsData(0xe928, fontFamily: _fontFamily);
-  static const SolarIconsData Dialog =
+  static const SolarIconsData dialog =
       SolarIconsData(0xe929, fontFamily: _fontFamily);
-  static const SolarIconsData Inbox_Archive =
+  static const SolarIconsData inboxArchive =
       SolarIconsData(0xe92a, fontFamily: _fontFamily);
-  static const SolarIconsData Inbox_In =
+  static const SolarIconsData inboxIn =
       SolarIconsData(0xe92b, fontFamily: _fontFamily);
-  static const SolarIconsData Inbox_Line =
+  static const SolarIconsData inboxLine =
       SolarIconsData(0xe92c, fontFamily: _fontFamily);
-  static const SolarIconsData Inbox_Out =
+  static const SolarIconsData inboxOut =
       SolarIconsData(0xe92d, fontFamily: _fontFamily);
-  static const SolarIconsData Inbox_Unread =
+  static const SolarIconsData inboxUnread =
       SolarIconsData(0xe92e, fontFamily: _fontFamily);
-  static const SolarIconsData Unread =
+  static const SolarIconsData unread =
       SolarIconsData(0xe92f, fontFamily: _fontFamily);
-  static const SolarIconsData Refresh_Circle =
+  static const SolarIconsData refreshCircle =
       SolarIconsData(0xe930, fontFamily: _fontFamily);
-  static const SolarIconsData Refresh_Square =
+  static const SolarIconsData refreshSquare =
       SolarIconsData(0xe931, fontFamily: _fontFamily);
-  static const SolarIconsData Restart_Circle =
+  static const SolarIconsData restartCircle =
       SolarIconsData(0xe932, fontFamily: _fontFamily);
-  static const SolarIconsData Restart_Square =
+  static const SolarIconsData restartSquare =
       SolarIconsData(0xe933, fontFamily: _fontFamily);
-  static const SolarIconsData Alt_Arrow_Down =
+  static const SolarIconsData altArrowDown =
       SolarIconsData(0xe934, fontFamily: _fontFamily);
-  static const SolarIconsData Alt_Arrow_Left =
+  static const SolarIconsData altArrowLeft =
       SolarIconsData(0xe935, fontFamily: _fontFamily);
-  static const SolarIconsData Alt_Arrow_Right =
+  static const SolarIconsData altArrowRight =
       SolarIconsData(0xe936, fontFamily: _fontFamily);
-  static const SolarIconsData Alt_Arrow_Up =
+  static const SolarIconsData altArrowUp =
       SolarIconsData(0xe937, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Down =
+  static const SolarIconsData arrowDown =
       SolarIconsData(0xe938, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Left_Down =
+  static const SolarIconsData arrowLeftDown =
       SolarIconsData(0xe939, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Left_Up =
+  static const SolarIconsData arrowLeftUp =
       SolarIconsData(0xe93a, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Left =
+  static const SolarIconsData arrowLeft =
       SolarIconsData(0xe93b, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Right_Down =
+  static const SolarIconsData arrowRightDown =
       SolarIconsData(0xe93c, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Right_Up =
+  static const SolarIconsData arrowRightUp =
       SolarIconsData(0xe93d, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Right =
+  static const SolarIconsData arrowRight =
       SolarIconsData(0xe93e, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_Up =
+  static const SolarIconsData arrowUp =
       SolarIconsData(0xe93f, fontFamily: _fontFamily);
-  static const SolarIconsData Double_Alt_Arrow_Down =
+  static const SolarIconsData doubleAltArrowDown =
       SolarIconsData(0xe940, fontFamily: _fontFamily);
-  static const SolarIconsData Double_Alt_Arrow_Left =
+  static const SolarIconsData doubleAltArrowLeft =
       SolarIconsData(0xe941, fontFamily: _fontFamily);
-  static const SolarIconsData Double_Alt_Arrow_Right =
+  static const SolarIconsData doubleAltArrowRight =
       SolarIconsData(0xe942, fontFamily: _fontFamily);
-  static const SolarIconsData Double_Alt_Arrow_Up =
+  static const SolarIconsData doubleAltArrowUp =
       SolarIconsData(0xe943, fontFamily: _fontFamily);
-  static const SolarIconsData Refresh =
+  static const SolarIconsData refresh =
       SolarIconsData(0xe944, fontFamily: _fontFamily);
-  static const SolarIconsData Restart =
+  static const SolarIconsData restart =
       SolarIconsData(0xe945, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Alt_Arrow_Down =
+  static const SolarIconsData roundAltArrowDown =
       SolarIconsData(0xe946, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Alt_Arrow_Up =
+  static const SolarIconsData roundAltArrowUp =
       SolarIconsData(0xe947, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Double_Alt_Arrow_Left =
+  static const SolarIconsData roundDoubleAltArrowLeft =
       SolarIconsData(0xe948, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Double_Alt_Arrow_Right =
+  static const SolarIconsData roundDoubleAltArrowRight =
       SolarIconsData(0xe949, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Double_Alt_Arrow_Up =
+  static const SolarIconsData roundDoubleAltArrowUp =
       SolarIconsData(0xe94a, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Sort_Horizontal =
+  static const SolarIconsData roundSortHorizontal =
       SolarIconsData(0xe94b, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Transfer_Diagonal =
+  static const SolarIconsData roundTransferDiagonal =
       SolarIconsData(0xe94c, fontFamily: _fontFamily);
-  static const SolarIconsData Sort_Horizontal =
+  static const SolarIconsData sortHorizontal =
       SolarIconsData(0xe94d, fontFamily: _fontFamily);
-  static const SolarIconsData Sort_Vertical =
+  static const SolarIconsData sortVertical =
       SolarIconsData(0xe94e, fontFamily: _fontFamily);
-  static const SolarIconsData Transfer_Horizontal =
+  static const SolarIconsData transferHorizontal =
       SolarIconsData(0xe94f, fontFamily: _fontFamily);
-  static const SolarIconsData Transfer_Vertical =
+  static const SolarIconsData transferVertical =
       SolarIconsData(0xe950, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Alt_Arrow_Left =
+  static const SolarIconsData roundAltArrowLeft =
       SolarIconsData(0xe951, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Alt_Arrow_Right =
+  static const SolarIconsData roundAltArrowRight =
       SolarIconsData(0xe952, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Down =
+  static const SolarIconsData roundArrowDown =
       SolarIconsData(0xe953, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Left_Down =
+  static const SolarIconsData roundArrowLeftDown =
       SolarIconsData(0xe954, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Left_Up =
+  static const SolarIconsData roundArrowLeftUp =
       SolarIconsData(0xe955, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Left =
+  static const SolarIconsData roundArrowLeft =
       SolarIconsData(0xe956, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Right_Down =
+  static const SolarIconsData roundArrowRightDown =
       SolarIconsData(0xe957, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Right_Up =
+  static const SolarIconsData roundArrowRightUp =
       SolarIconsData(0xe958, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Right =
+  static const SolarIconsData roundArrowRight =
       SolarIconsData(0xe959, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Arrow_Up =
+  static const SolarIconsData roundArrowUp =
       SolarIconsData(0xe95a, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Double_Alt_Arrow_Down =
+  static const SolarIconsData roundDoubleAltArrowDown =
       SolarIconsData(0xe95b, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Sort_Vertical =
+  static const SolarIconsData roundSortVertical =
       SolarIconsData(0xe95c, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Transfer_Horizontal =
+  static const SolarIconsData roundTransferHorizontal =
       SolarIconsData(0xe95d, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Transfer_Vertical =
+  static const SolarIconsData roundTransferVertical =
       SolarIconsData(0xe95e, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Alt_Arrow_Down =
+  static const SolarIconsData squareAltArrowDown =
       SolarIconsData(0xe95f, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Alt_Arrow_Up =
+  static const SolarIconsData squareAltArrowUp =
       SolarIconsData(0xe960, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Down =
+  static const SolarIconsData squareArrowDown =
       SolarIconsData(0xe961, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Left_Down =
+  static const SolarIconsData squareArrowLeftDown =
       SolarIconsData(0xe962, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Left_Up =
+  static const SolarIconsData squareArrowLeftUp =
       SolarIconsData(0xe963, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Left =
+  static const SolarIconsData squareArrowLeft =
       SolarIconsData(0xe964, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Right_Down =
+  static const SolarIconsData squareArrowRightDown =
       SolarIconsData(0xe965, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Right_Up =
+  static const SolarIconsData squareArrowRightUp =
       SolarIconsData(0xe966, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Right =
+  static const SolarIconsData squareArrowRight =
       SolarIconsData(0xe967, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Arrow_Up =
+  static const SolarIconsData squareArrowUp =
       SolarIconsData(0xe968, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Sort_Horizontal =
+  static const SolarIconsData squareSortHorizontal =
       SolarIconsData(0xe969, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Sort_Vertical =
+  static const SolarIconsData squareSortVertical =
       SolarIconsData(0xe96a, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Transfer_Horizontal =
+  static const SolarIconsData squareTransferHorizontal =
       SolarIconsData(0xe96b, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Transfer_Vertical =
+  static const SolarIconsData squareTransferVertical =
       SolarIconsData(0xe96c, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Alt_Arrow_Left =
+  static const SolarIconsData squareAltArrowLeft =
       SolarIconsData(0xe96d, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Alt_Arrow_Right =
+  static const SolarIconsData squareAltArrowRight =
       SolarIconsData(0xe96e, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Double_Alt_Arrow_Right =
+  static const SolarIconsData squareDoubleAltArrowRight =
       SolarIconsData(0xe96f, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Double_Alt_Arrow_Down =
+  static const SolarIconsData squareDoubleAltArrowDown =
       SolarIconsData(0xe970, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Double_Alt_Arrow_Left =
+  static const SolarIconsData squareDoubleAltArrowLeft =
       SolarIconsData(0xe971, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Double_Alt_Arrow_Up =
+  static const SolarIconsData squareDoubleAltArrowUp =
       SolarIconsData(0xe972, fontFamily: _fontFamily);
-  static const SolarIconsData Compass_Big =
+  static const SolarIconsData compassBig =
       SolarIconsData(0xe973, fontFamily: _fontFamily);
-  static const SolarIconsData Globus =
+  static const SolarIconsData globus =
       SolarIconsData(0xe974, fontFamily: _fontFamily);
-  static const SolarIconsData GPS =
+  static const SolarIconsData gps =
       SolarIconsData(0xe975, fontFamily: _fontFamily);
-  static const SolarIconsData Point_On_Map_Perspective =
+  static const SolarIconsData pointOnMapPerspective =
       SolarIconsData(0xe976, fontFamily: _fontFamily);
-  static const SolarIconsData Radar_2 =
+  static const SolarIconsData radar2 =
       SolarIconsData(0xe977, fontFamily: _fontFamily);
-  static const SolarIconsData Radar =
+  static const SolarIconsData radar =
       SolarIconsData(0xe978, fontFamily: _fontFamily);
-  static const SolarIconsData Routing_2 =
+  static const SolarIconsData routing2 =
       SolarIconsData(0xe979, fontFamily: _fontFamily);
-  static const SolarIconsData Routing_3 =
+  static const SolarIconsData routing3 =
       SolarIconsData(0xe97a, fontFamily: _fontFamily);
-  static const SolarIconsData Routing =
+  static const SolarIconsData routing =
       SolarIconsData(0xe97b, fontFamily: _fontFamily);
-  static const SolarIconsData Streets_Map_Point =
+  static const SolarIconsData streetsMapPoint =
       SolarIconsData(0xe97c, fontFamily: _fontFamily);
-  static const SolarIconsData Streets_Navigation =
+  static const SolarIconsData streetsNavigation =
       SolarIconsData(0xe97d, fontFamily: _fontFamily);
-  static const SolarIconsData Streets =
+  static const SolarIconsData streets =
       SolarIconsData(0xe97e, fontFamily: _fontFamily);
-  static const SolarIconsData Branching_Paths_Down =
+  static const SolarIconsData branchingPathsDown =
       SolarIconsData(0xe97f, fontFamily: _fontFamily);
-  static const SolarIconsData Branching_Paths_Up =
+  static const SolarIconsData branchingPathsUp =
       SolarIconsData(0xe980, fontFamily: _fontFamily);
-  static const SolarIconsData Compass_Square =
+  static const SolarIconsData compassSquare =
       SolarIconsData(0xe981, fontFamily: _fontFamily);
-  static const SolarIconsData Compass =
+  static const SolarIconsData compass =
       SolarIconsData(0xe982, fontFamily: _fontFamily);
-  static const SolarIconsData Global =
+  static const SolarIconsData global =
       SolarIconsData(0xe983, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Arrow_Down =
+  static const SolarIconsData mapArrowDown =
       SolarIconsData(0xe984, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Arrow_Left =
+  static const SolarIconsData mapArrowLeft =
       SolarIconsData(0xe985, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Arrow_Right =
+  static const SolarIconsData mapArrowRight =
       SolarIconsData(0xe986, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Arrow_Square =
+  static const SolarIconsData mapArrowSquare =
       SolarIconsData(0xe987, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Arrow_Up =
+  static const SolarIconsData mapArrowUp =
       SolarIconsData(0xe988, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_Add =
+  static const SolarIconsData mapPointAdd =
       SolarIconsData(0xe989, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_Favourite =
+  static const SolarIconsData mapPointFavourite =
       SolarIconsData(0xe98a, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_Hospital =
+  static const SolarIconsData mapPointHospital =
       SolarIconsData(0xe98b, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_Remove =
+  static const SolarIconsData mapPointRemove =
       SolarIconsData(0xe98c, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_Rotate =
+  static const SolarIconsData mapPointRotate =
       SolarIconsData(0xe98d, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_School =
+  static const SolarIconsData mapPointSchool =
       SolarIconsData(0xe98e, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_Search =
+  static const SolarIconsData mapPointSearch =
       SolarIconsData(0xe98f, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point_Wave =
+  static const SolarIconsData mapPointWave =
       SolarIconsData(0xe990, fontFamily: _fontFamily);
-  static const SolarIconsData Map_Point =
+  static const SolarIconsData mapPoint =
       SolarIconsData(0xe991, fontFamily: _fontFamily);
-  static const SolarIconsData Map =
+  static const SolarIconsData map =
       SolarIconsData(0xe992, fontFamily: _fontFamily);
-  static const SolarIconsData People_Nearby =
+  static const SolarIconsData peopleNearby =
       SolarIconsData(0xe993, fontFamily: _fontFamily);
-  static const SolarIconsData Point_On_Map =
+  static const SolarIconsData pointOnMap =
       SolarIconsData(0xe994, fontFamily: _fontFamily);
-  static const SolarIconsData Route =
+  static const SolarIconsData route =
       SolarIconsData(0xe995, fontFamily: _fontFamily);
-  static const SolarIconsData Signpost_2 =
+  static const SolarIconsData signpost2 =
       SolarIconsData(0xe996, fontFamily: _fontFamily);
-  static const SolarIconsData Signpost =
+  static const SolarIconsData signpost =
       SolarIconsData(0xe997, fontFamily: _fontFamily);
-  static const SolarIconsData Full_Screen_Circle =
+  static const SolarIconsData fullScreenCircle =
       SolarIconsData(0xe998, fontFamily: _fontFamily);
-  static const SolarIconsData Full_Screen_Square =
+  static const SolarIconsData fullScreenSquare =
       SolarIconsData(0xe999, fontFamily: _fontFamily);
-  static const SolarIconsData Camera_Add =
+  static const SolarIconsData cameraAdd =
       SolarIconsData(0xe99a, fontFamily: _fontFamily);
-  static const SolarIconsData Camera_Minimalistic =
+  static const SolarIconsData cameraMinimalistic =
       SolarIconsData(0xe99b, fontFamily: _fontFamily);
-  static const SolarIconsData Camera_Rotate =
+  static const SolarIconsData cameraRotate =
       SolarIconsData(0xe99c, fontFamily: _fontFamily);
-  static const SolarIconsData Camera_Square =
+  static const SolarIconsData cameraSquare =
       SolarIconsData(0xe99d, fontFamily: _fontFamily);
-  static const SolarIconsData Camera =
+  static const SolarIconsData camera =
       SolarIconsData(0xe99e, fontFamily: _fontFamily);
-  static const SolarIconsData Full_Screen =
+  static const SolarIconsData fullScreen =
       SolarIconsData(0xe99f, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Circle =
+  static const SolarIconsData galleryCircle =
       SolarIconsData(0xe9a0, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Favourite =
+  static const SolarIconsData galleryFavourite =
       SolarIconsData(0xe9a1, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Round =
+  static const SolarIconsData galleryRound =
       SolarIconsData(0xe9a2, fontFamily: _fontFamily);
-  static const SolarIconsData Pause_Circle =
+  static const SolarIconsData pauseCircle =
       SolarIconsData(0xe9a3, fontFamily: _fontFamily);
-  static const SolarIconsData PIP_2 =
+  static const SolarIconsData pip2 =
       SolarIconsData(0xe9a4, fontFamily: _fontFamily);
-  static const SolarIconsData PIP =
+  static const SolarIconsData pip =
       SolarIconsData(0xe9a5, fontFamily: _fontFamily);
-  static const SolarIconsData Playback_Speed =
+  static const SolarIconsData playbackSpeed =
       SolarIconsData(0xe9a6, fontFamily: _fontFamily);
-  static const SolarIconsData Quit_Full_Screen_Circle =
+  static const SolarIconsData quitFullScreenCircle =
       SolarIconsData(0xe9a7, fontFamily: _fontFamily);
-  static const SolarIconsData Quit_Full_Screen_Square =
+  static const SolarIconsData quitFullScreenSquare =
       SolarIconsData(0xe9a8, fontFamily: _fontFamily);
-  static const SolarIconsData Quit_Full_Screen =
+  static const SolarIconsData quitFullScreen =
       SolarIconsData(0xe9a9, fontFamily: _fontFamily);
-  static const SolarIconsData Quit_PIP =
+  static const SolarIconsData quitPIP =
       SolarIconsData(0xe9aa, fontFamily: _fontFamily);
-  static const SolarIconsData Reel_2 =
+  static const SolarIconsData reel2 =
       SolarIconsData(0xe9ab, fontFamily: _fontFamily);
-  static const SolarIconsData Reel =
+  static const SolarIconsData reel =
       SolarIconsData(0xe9ac, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_Back_Circle =
+  static const SolarIconsData rewindBackCircle =
       SolarIconsData(0xe9ad, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_Forward_Circle =
+  static const SolarIconsData rewindForwardCircle =
       SolarIconsData(0xe9ae, fontFamily: _fontFamily);
-  static const SolarIconsData Shuffle =
+  static const SolarIconsData shuffle =
       SolarIconsData(0xe9af, fontFamily: _fontFamily);
-  static const SolarIconsData Stop_Circle =
+  static const SolarIconsData stopCircle =
       SolarIconsData(0xe9b0, fontFamily: _fontFamily);
-  static const SolarIconsData Stream =
+  static const SolarIconsData stream =
       SolarIconsData(0xe9b1, fontFamily: _fontFamily);
-  static const SolarIconsData To_PIP =
+  static const SolarIconsData toPIP =
       SolarIconsData(0xe9b2, fontFamily: _fontFamily);
-  static const SolarIconsData Videocamera_Add =
+  static const SolarIconsData videocameraAdd =
       SolarIconsData(0xe9b3, fontFamily: _fontFamily);
-  static const SolarIconsData Videocamera_Record =
+  static const SolarIconsData videocameraRecord =
       SolarIconsData(0xe9b4, fontFamily: _fontFamily);
-  static const SolarIconsData Videocamera =
+  static const SolarIconsData videocamera =
       SolarIconsData(0xe9b5, fontFamily: _fontFamily);
-  static const SolarIconsData Clapperboard_Edit =
+  static const SolarIconsData clapperboardEdit =
       SolarIconsData(0xe9b6, fontFamily: _fontFamily);
-  static const SolarIconsData Clapperboard_Text =
+  static const SolarIconsData clapperboardText =
       SolarIconsData(0xe9b7, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Add =
+  static const SolarIconsData galleryAdd =
       SolarIconsData(0xe9b8, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Check =
+  static const SolarIconsData galleryCheck =
       SolarIconsData(0xe9b9, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Edit =
+  static const SolarIconsData galleryEdit =
       SolarIconsData(0xe9ba, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Remove =
+  static const SolarIconsData galleryRemove =
       SolarIconsData(0xe9bb, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Send =
+  static const SolarIconsData gallerySend =
       SolarIconsData(0xe9bc, fontFamily: _fontFamily);
-  static const SolarIconsData Microphone_Large =
+  static const SolarIconsData microphoneLarge =
       SolarIconsData(0xe9bd, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Library_2 =
+  static const SolarIconsData musicLibrary2 =
       SolarIconsData(0xe9be, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Library =
+  static const SolarIconsData musicLibrary =
       SolarIconsData(0xe9bf, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Note_Slider_2 =
+  static const SolarIconsData musicNoteSlider2 =
       SolarIconsData(0xe9c0, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Note_Slider =
+  static const SolarIconsData musicNoteSlider =
       SolarIconsData(0xe9c1, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Notes =
+  static const SolarIconsData musicNotes =
       SolarIconsData(0xe9c2, fontFamily: _fontFamily);
-  static const SolarIconsData Panorama =
+  static const SolarIconsData panorama =
       SolarIconsData(0xe9c3, fontFamily: _fontFamily);
-  static const SolarIconsData Play_Circle =
+  static const SolarIconsData playCircle =
       SolarIconsData(0xe9c4, fontFamily: _fontFamily);
-  static const SolarIconsData Podcast =
+  static const SolarIconsData podcast =
       SolarIconsData(0xe9c5, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_10_Seconds_Back =
+  static const SolarIconsData rewind10SecondsBack =
       SolarIconsData(0xe9c6, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_10_Seconds_Forward =
+  static const SolarIconsData rewind10SecondsForward =
       SolarIconsData(0xe9c7, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_Back =
+  static const SolarIconsData rewindBack =
       SolarIconsData(0xe9c8, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_Forward =
+  static const SolarIconsData rewindForward =
       SolarIconsData(0xe9c9, fontFamily: _fontFamily);
-  static const SolarIconsData Skip_Next =
+  static const SolarIconsData skipNext =
       SolarIconsData(0xe9ca, fontFamily: _fontFamily);
-  static const SolarIconsData Skip_Previous =
+  static const SolarIconsData skipPrevious =
       SolarIconsData(0xe9cb, fontFamily: _fontFamily);
-  static const SolarIconsData Upload_Track_2 =
+  static const SolarIconsData uploadTrack2 =
       SolarIconsData(0xe9cc, fontFamily: _fontFamily);
-  static const SolarIconsData Upload_Track =
+  static const SolarIconsData uploadTrack =
       SolarIconsData(0xe9cd, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Frame_2 =
+  static const SolarIconsData videoFrame2 =
       SolarIconsData(0xe9ce, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Frame_Play_Horizontal =
+  static const SolarIconsData videoFramePlayHorizontal =
       SolarIconsData(0xe9cf, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Frame_Play_Vertical =
+  static const SolarIconsData videoFramePlayVertical =
       SolarIconsData(0xe9d0, fontFamily: _fontFamily);
-  static const SolarIconsData Volume_Cross =
+  static const SolarIconsData volumeCross =
       SolarIconsData(0xe9d1, fontFamily: _fontFamily);
-  static const SolarIconsData Wallpaper =
+  static const SolarIconsData wallpaper =
       SolarIconsData(0xe9d2, fontFamily: _fontFamily);
-  static const SolarIconsData Album =
+  static const SolarIconsData album =
       SolarIconsData(0xe9d3, fontFamily: _fontFamily);
-  static const SolarIconsData Clapperboard_Open_Play =
+  static const SolarIconsData clapperboardOpenPlay =
       SolarIconsData(0xe9d4, fontFamily: _fontFamily);
-  static const SolarIconsData Clapperboard_Open =
+  static const SolarIconsData clapperboardOpen =
       SolarIconsData(0xe9d5, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Download =
+  static const SolarIconsData galleryDownload =
       SolarIconsData(0xe9d6, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Minimalistic =
+  static const SolarIconsData galleryMinimalistic =
       SolarIconsData(0xe9d7, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery_Wide =
+  static const SolarIconsData galleryWide =
       SolarIconsData(0xe9d8, fontFamily: _fontFamily);
-  static const SolarIconsData Microphone_3 =
+  static const SolarIconsData microphone3 =
       SolarIconsData(0xe9d9, fontFamily: _fontFamily);
-  static const SolarIconsData Microphone =
+  static const SolarIconsData microphone =
       SolarIconsData(0xe9da, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Note_2 =
+  static const SolarIconsData musicNote2 =
       SolarIconsData(0xe9db, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Note_3 =
+  static const SolarIconsData musicNote3 =
       SolarIconsData(0xe9dc, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Note =
+  static const SolarIconsData musicNote =
       SolarIconsData(0xe9dd, fontFamily: _fontFamily);
-  static const SolarIconsData Muted =
+  static const SolarIconsData muted =
       SolarIconsData(0xe9de, fontFamily: _fontFamily);
-  static const SolarIconsData Pause =
+  static const SolarIconsData pause =
       SolarIconsData(0xe9df, fontFamily: _fontFamily);
-  static const SolarIconsData Play_Stream =
+  static const SolarIconsData playStream =
       SolarIconsData(0xe9e0, fontFamily: _fontFamily);
-  static const SolarIconsData Play =
+  static const SolarIconsData play =
       SolarIconsData(0xe9e1, fontFamily: _fontFamily);
-  static const SolarIconsData Repeat_One_Minimalistic =
+  static const SolarIconsData repeatOneMinimalistic =
       SolarIconsData(0xe9e2, fontFamily: _fontFamily);
-  static const SolarIconsData Repeat_One =
+  static const SolarIconsData repeatOne =
       SolarIconsData(0xe9e3, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_15_Seconds_Back =
+  static const SolarIconsData rewind15SecondsBack =
       SolarIconsData(0xe9e4, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_15_Seconds_Forward =
+  static const SolarIconsData rewind15SecondsForward =
       SolarIconsData(0xe9e5, fontFamily: _fontFamily);
-  static const SolarIconsData Soundwave_Circle =
+  static const SolarIconsData soundwaveCircle =
       SolarIconsData(0xe9e6, fontFamily: _fontFamily);
-  static const SolarIconsData Soundwave_Square =
+  static const SolarIconsData soundwaveSquare =
       SolarIconsData(0xe9e7, fontFamily: _fontFamily);
-  static const SolarIconsData Stop =
+  static const SolarIconsData stop =
       SolarIconsData(0xe9e8, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Frame_Cut_2 =
+  static const SolarIconsData videoFrameCut2 =
       SolarIconsData(0xe9e9, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Frame_Replace =
+  static const SolarIconsData videoFrameReplace =
       SolarIconsData(0xe9ea, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Library =
+  static const SolarIconsData videoLibrary =
       SolarIconsData(0xe9eb, fontFamily: _fontFamily);
-  static const SolarIconsData Vinyl_Record =
+  static const SolarIconsData vinylRecord =
       SolarIconsData(0xe9ec, fontFamily: _fontFamily);
-  static const SolarIconsData Vinyl =
+  static const SolarIconsData vinyl =
       SolarIconsData(0xe9ed, fontFamily: _fontFamily);
-  static const SolarIconsData Volume =
+  static const SolarIconsData volume =
       SolarIconsData(0xe9ee, fontFamily: _fontFamily);
-  static const SolarIconsData Clapperboard_Play =
+  static const SolarIconsData clapperboardPlay =
       SolarIconsData(0xe9ef, fontFamily: _fontFamily);
-  static const SolarIconsData Clapperboard =
+  static const SolarIconsData clapperboard =
       SolarIconsData(0xe9f0, fontFamily: _fontFamily);
-  static const SolarIconsData Gallery =
+  static const SolarIconsData gallery =
       SolarIconsData(0xe9f1, fontFamily: _fontFamily);
-  static const SolarIconsData Library =
+  static const SolarIconsData library =
       SolarIconsData(0xe9f2, fontFamily: _fontFamily);
-  static const SolarIconsData Microphone_2 =
+  static const SolarIconsData microphone2 =
       SolarIconsData(0xe9f3, fontFamily: _fontFamily);
-  static const SolarIconsData Music_Note_4 =
+  static const SolarIconsData musicNote4 =
       SolarIconsData(0xe9f4, fontFamily: _fontFamily);
-  static const SolarIconsData Record_Circle =
+  static const SolarIconsData recordCircle =
       SolarIconsData(0xe9f5, fontFamily: _fontFamily);
-  static const SolarIconsData Record =
+  static const SolarIconsData record =
       SolarIconsData(0xe9f6, fontFamily: _fontFamily);
-  static const SolarIconsData Repeat =
+  static const SolarIconsData repeat =
       SolarIconsData(0xe9f7, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_5_Seconds_Back =
+  static const SolarIconsData rewind5SecondsBack =
       SolarIconsData(0xe9f8, fontFamily: _fontFamily);
-  static const SolarIconsData Rewind_5_Seconds_Forward =
+  static const SolarIconsData rewind5SecondsForward =
       SolarIconsData(0xe9f9, fontFamily: _fontFamily);
-  static const SolarIconsData Soundwave =
+  static const SolarIconsData soundwave =
       SolarIconsData(0xe9fa, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Frame_Cut =
+  static const SolarIconsData videoFrameCut =
       SolarIconsData(0xe9fb, fontFamily: _fontFamily);
-  static const SolarIconsData Video_Frame =
+  static const SolarIconsData videoFrame =
       SolarIconsData(0xe9fc, fontFamily: _fontFamily);
-  static const SolarIconsData Volume_Loud =
+  static const SolarIconsData volumeLoud =
       SolarIconsData(0xe9fd, fontFamily: _fontFamily);
-  static const SolarIconsData Volume_Small =
+  static const SolarIconsData volumeSmall =
       SolarIconsData(0xe9fe, fontFamily: _fontFamily);
-  static const SolarIconsData Bill_Check =
+  static const SolarIconsData billCheck =
       SolarIconsData(0xe9ff, fontFamily: _fontFamily);
-  static const SolarIconsData Bill_Cross =
+  static const SolarIconsData billCross =
       SolarIconsData(0xea00, fontFamily: _fontFamily);
-  static const SolarIconsData Bill_List =
+  static const SolarIconsData billList =
       SolarIconsData(0xea01, fontFamily: _fontFamily);
-  static const SolarIconsData Bill =
+  static const SolarIconsData bill =
       SolarIconsData(0xea02, fontFamily: _fontFamily);
-  static const SolarIconsData Cash_Out =
+  static const SolarIconsData cashOut =
       SolarIconsData(0xea03, fontFamily: _fontFamily);
-  static const SolarIconsData Dollar_Minimalistic =
+  static const SolarIconsData dollarMinimalistic =
       SolarIconsData(0xea04, fontFamily: _fontFamily);
-  static const SolarIconsData Money_Bag =
+  static const SolarIconsData moneyBag =
       SolarIconsData(0xea05, fontFamily: _fontFamily);
-  static const SolarIconsData Safe_2 =
+  static const SolarIconsData safe2 =
       SolarIconsData(0xea06, fontFamily: _fontFamily);
-  static const SolarIconsData Banknote_2 =
+  static const SolarIconsData banknote2 =
       SolarIconsData(0xea07, fontFamily: _fontFamily);
-  static const SolarIconsData Banknote =
+  static const SolarIconsData banknote =
       SolarIconsData(0xea08, fontFamily: _fontFamily);
-  static const SolarIconsData Card_2 =
+  static const SolarIconsData card2 =
       SolarIconsData(0xea09, fontFamily: _fontFamily);
-  static const SolarIconsData Card_Recive =
+  static const SolarIconsData cardReceive =
       SolarIconsData(0xea0a, fontFamily: _fontFamily);
-  static const SolarIconsData Card_Search =
+  static const SolarIconsData cardSearch =
       SolarIconsData(0xea0b, fontFamily: _fontFamily);
-  static const SolarIconsData Card_Send =
+  static const SolarIconsData cardSend =
       SolarIconsData(0xea0c, fontFamily: _fontFamily);
-  static const SolarIconsData Card_Transfer =
+  static const SolarIconsData cardTransfer =
       SolarIconsData(0xea0d, fontFamily: _fontFamily);
-  static const SolarIconsData Card =
+  static const SolarIconsData card =
       SolarIconsData(0xea0e, fontFamily: _fontFamily);
-  static const SolarIconsData Cardholder =
+  static const SolarIconsData cardholder =
       SolarIconsData(0xea0f, fontFamily: _fontFamily);
-  static const SolarIconsData Dollar =
+  static const SolarIconsData dollar =
       SolarIconsData(0xea10, fontFamily: _fontFamily);
-  static const SolarIconsData Euro =
+  static const SolarIconsData euro =
       SolarIconsData(0xea11, fontFamily: _fontFamily);
-  static const SolarIconsData Ruble =
+  static const SolarIconsData ruble =
       SolarIconsData(0xea12, fontFamily: _fontFamily);
-  static const SolarIconsData Safe_Circle =
+  static const SolarIconsData safeCircle =
       SolarIconsData(0xea13, fontFamily: _fontFamily);
-  static const SolarIconsData Safe_Square =
+  static const SolarIconsData safeSquare =
       SolarIconsData(0xea14, fontFamily: _fontFamily);
-  static const SolarIconsData Sale_Square =
+  static const SolarIconsData saleSquare =
       SolarIconsData(0xea15, fontFamily: _fontFamily);
-  static const SolarIconsData Sale =
+  static const SolarIconsData sale =
       SolarIconsData(0xea16, fontFamily: _fontFamily);
-  static const SolarIconsData Tag_Horizontal =
+  static const SolarIconsData tagHorizontal =
       SolarIconsData(0xea17, fontFamily: _fontFamily);
-  static const SolarIconsData Tag_Price =
+  static const SolarIconsData tagPrice =
       SolarIconsData(0xea18, fontFamily: _fontFamily);
-  static const SolarIconsData Tag =
+  static const SolarIconsData tag =
       SolarIconsData(0xea19, fontFamily: _fontFamily);
-  static const SolarIconsData Ticker_Star =
+  static const SolarIconsData tickerStar =
       SolarIconsData(0xea1a, fontFamily: _fontFamily);
-  static const SolarIconsData Ticket_Sale =
+  static const SolarIconsData ticketSale =
       SolarIconsData(0xea1b, fontFamily: _fontFamily);
-  static const SolarIconsData Ticket =
+  static const SolarIconsData ticket =
       SolarIconsData(0xea1c, fontFamily: _fontFamily);
-  static const SolarIconsData Verified_Check =
+  static const SolarIconsData verifiedCheck =
       SolarIconsData(0xea1d, fontFamily: _fontFamily);
-  static const SolarIconsData Wad_Of_Money =
+  static const SolarIconsData wadOfMoney =
       SolarIconsData(0xea1e, fontFamily: _fontFamily);
-  static const SolarIconsData Wallet_2 =
+  static const SolarIconsData wallet2 =
       SolarIconsData(0xea1f, fontFamily: _fontFamily);
-  static const SolarIconsData Wallet_Money =
+  static const SolarIconsData walletMoney =
       SolarIconsData(0xea20, fontFamily: _fontFamily);
-  static const SolarIconsData Wallet =
+  static const SolarIconsData wallet =
       SolarIconsData(0xea21, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Storage =
+  static const SolarIconsData cloudStorage =
       SolarIconsData(0xea22, fontFamily: _fontFamily);
-  static const SolarIconsData Devices =
+  static const SolarIconsData devices =
       SolarIconsData(0xea23, fontFamily: _fontFamily);
-  static const SolarIconsData Flash_Drive =
+  static const SolarIconsData flashDrive =
       SolarIconsData(0xea24, fontFamily: _fontFamily);
-  static const SolarIconsData Lightbulb_Bolt =
+  static const SolarIconsData lightbulbBold =
       SolarIconsData(0xea25, fontFamily: _fontFamily);
-  static const SolarIconsData Lightbulb_Minimalistic =
+  static const SolarIconsData lightbulbMinimalistic =
       SolarIconsData(0xea26, fontFamily: _fontFamily);
-  static const SolarIconsData Lightbulb =
+  static const SolarIconsData lightbulb =
       SolarIconsData(0xea27, fontFamily: _fontFamily);
-  static const SolarIconsData Lightning =
+  static const SolarIconsData lightning =
       SolarIconsData(0xea28, fontFamily: _fontFamily);
-  static const SolarIconsData Socket =
+  static const SolarIconsData socket =
       SolarIconsData(0xea29, fontFamily: _fontFamily);
-  static const SolarIconsData SSD_Round =
+  static const SolarIconsData ssdRound =
       SolarIconsData(0xea2a, fontFamily: _fontFamily);
-  static const SolarIconsData SSD_Square =
+  static const SolarIconsData ssdSquare =
       SolarIconsData(0xea2b, fontFamily: _fontFamily);
-  static const SolarIconsData Weigher =
+  static const SolarIconsData weigher =
       SolarIconsData(0xea2c, fontFamily: _fontFamily);
-  static const SolarIconsData Bluetooth_Circle =
+  static const SolarIconsData bluetoothCircle =
       SolarIconsData(0xea2d, fontFamily: _fontFamily);
-  static const SolarIconsData Bluetooth_Square =
+  static const SolarIconsData bluetoothSquare =
       SolarIconsData(0xea2e, fontFamily: _fontFamily);
-  static const SolarIconsData Bluetooth_Wave =
+  static const SolarIconsData bluetoothWave =
       SolarIconsData(0xea2f, fontFamily: _fontFamily);
-  static const SolarIconsData Bluetooth =
+  static const SolarIconsData bluetooth =
       SolarIconsData(0xea30, fontFamily: _fontFamily);
-  static const SolarIconsData Diskette =
+  static const SolarIconsData diskette =
       SolarIconsData(0xea31, fontFamily: _fontFamily);
-  static const SolarIconsData Display =
+  static const SolarIconsData display =
       SolarIconsData(0xea32, fontFamily: _fontFamily);
-  static const SolarIconsData Gameboy =
+  static const SolarIconsData gameboy =
       SolarIconsData(0xea33, fontFamily: _fontFamily);
-  static const SolarIconsData Keyboard =
+  static const SolarIconsData keyboard =
       SolarIconsData(0xea34, fontFamily: _fontFamily);
-  static const SolarIconsData Monitor_Camera =
+  static const SolarIconsData monitorCamera =
       SolarIconsData(0xea35, fontFamily: _fontFamily);
-  static const SolarIconsData Monitor_Smartphone =
+  static const SolarIconsData monitorSmartphone =
       SolarIconsData(0xea36, fontFamily: _fontFamily);
-  static const SolarIconsData Monitor =
+  static const SolarIconsData monitor =
       SolarIconsData(0xea37, fontFamily: _fontFamily);
-  static const SolarIconsData Plug_Circle =
+  static const SolarIconsData plugCircle =
       SolarIconsData(0xea38, fontFamily: _fontFamily);
-  static const SolarIconsData Printer_2 =
+  static const SolarIconsData printer2 =
       SolarIconsData(0xea39, fontFamily: _fontFamily);
-  static const SolarIconsData Printer_Minimalistic =
+  static const SolarIconsData printerMinimalistic =
       SolarIconsData(0xea3a, fontFamily: _fontFamily);
-  static const SolarIconsData Printer =
+  static const SolarIconsData printer =
       SolarIconsData(0xea3b, fontFamily: _fontFamily);
-  static const SolarIconsData Projector =
+  static const SolarIconsData projector =
       SolarIconsData(0xea3c, fontFamily: _fontFamily);
-  static const SolarIconsData Radio_Minimalistic =
+  static const SolarIconsData radioMinimalistic =
       SolarIconsData(0xea3d, fontFamily: _fontFamily);
-  static const SolarIconsData Radio =
+  static const SolarIconsData radio =
       SolarIconsData(0xea3e, fontFamily: _fontFamily);
-  static const SolarIconsData SD_Card =
+  static const SolarIconsData sdCard =
       SolarIconsData(0xea3f, fontFamily: _fontFamily);
-  static const SolarIconsData SIM_Card_Minimalistic =
+  static const SolarIconsData simCardMinimalistic =
       SolarIconsData(0xea40, fontFamily: _fontFamily);
-  static const SolarIconsData SIM_Card =
+  static const SolarIconsData simCard =
       SolarIconsData(0xea41, fontFamily: _fontFamily);
-  static const SolarIconsData SIM_Cards =
+  static const SolarIconsData simCards =
       SolarIconsData(0xea42, fontFamily: _fontFamily);
-  static const SolarIconsData Smart_Speaker_2 =
+  static const SolarIconsData smartSpeaker2 =
       SolarIconsData(0xea43, fontFamily: _fontFamily);
-  static const SolarIconsData Smart_Speaker_Minimalistic =
+  static const SolarIconsData smartSpeakerMinimalistic =
       SolarIconsData(0xea44, fontFamily: _fontFamily);
-  static const SolarIconsData Smart_Speaker =
+  static const SolarIconsData smartSpeaker =
       SolarIconsData(0xea45, fontFamily: _fontFamily);
-  static const SolarIconsData Telescope =
+  static const SolarIconsData telescope =
       SolarIconsData(0xea46, fontFamily: _fontFamily);
-  static const SolarIconsData TV =
+  static const SolarIconsData tv =
       SolarIconsData(0xea47, fontFamily: _fontFamily);
-  static const SolarIconsData Wireless_Charge =
+  static const SolarIconsData wirelessCharge =
       SolarIconsData(0xea48, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Case_Charge =
+  static const SolarIconsData airbudsCaseCharge =
       SolarIconsData(0xea49, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Case_Minimalistic =
+  static const SolarIconsData airbudsCaseMinimalistic =
       SolarIconsData(0xea4a, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Case_Open =
+  static const SolarIconsData airbudsCaseOpen =
       SolarIconsData(0xea4b, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Case =
+  static const SolarIconsData airbudsCase =
       SolarIconsData(0xea4c, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Charge =
+  static const SolarIconsData airbudsCharge =
       SolarIconsData(0xea4d, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Check =
+  static const SolarIconsData airbudsCheck =
       SolarIconsData(0xea4e, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Left =
+  static const SolarIconsData airbudsLeft =
       SolarIconsData(0xea4f, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Remove =
+  static const SolarIconsData airbudsRemove =
       SolarIconsData(0xea50, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds_Right =
+  static const SolarIconsData airbudsRight =
       SolarIconsData(0xea51, fontFamily: _fontFamily);
-  static const SolarIconsData Airbuds =
+  static const SolarIconsData airbuds =
       SolarIconsData(0xea52, fontFamily: _fontFamily);
-  static const SolarIconsData Boombox =
+  static const SolarIconsData boombox =
       SolarIconsData(0xea53, fontFamily: _fontFamily);
-  static const SolarIconsData Cassette_2 =
+  static const SolarIconsData cassette2 =
       SolarIconsData(0xea54, fontFamily: _fontFamily);
-  static const SolarIconsData Cassette =
+  static const SolarIconsData cassette =
       SolarIconsData(0xea55, fontFamily: _fontFamily);
-  static const SolarIconsData CPU_Bolt =
+  static const SolarIconsData cpuBolt =
       SolarIconsData(0xea56, fontFamily: _fontFamily);
-  static const SolarIconsData CPU =
+  static const SolarIconsData cpu =
       SolarIconsData(0xea57, fontFamily: _fontFamily);
-  static const SolarIconsData Laptop_2 =
+  static const SolarIconsData laptop2 =
       SolarIconsData(0xea58, fontFamily: _fontFamily);
-  static const SolarIconsData Laptop_3 =
+  static const SolarIconsData laptop3 =
       SolarIconsData(0xea59, fontFamily: _fontFamily);
-  static const SolarIconsData Laptop_Minimalistic =
+  static const SolarIconsData laptopMinimalistic =
       SolarIconsData(0xea5a, fontFamily: _fontFamily);
-  static const SolarIconsData Laptop =
+  static const SolarIconsData laptop =
       SolarIconsData(0xea5b, fontFamily: _fontFamily);
-  static const SolarIconsData Mouse_Circle =
+  static const SolarIconsData mouseCircle =
       SolarIconsData(0xea5c, fontFamily: _fontFamily);
-  static const SolarIconsData Mouse_Minimalistic =
+  static const SolarIconsData mouseMinimalistic =
       SolarIconsData(0xea5d, fontFamily: _fontFamily);
-  static const SolarIconsData Mouse =
+  static const SolarIconsData mouse =
       SolarIconsData(0xea5e, fontFamily: _fontFamily);
-  static const SolarIconsData Server_Minimalistic =
+  static const SolarIconsData serverMinimalistic =
       SolarIconsData(0xea5f, fontFamily: _fontFamily);
-  static const SolarIconsData Server_Path =
+  static const SolarIconsData serverPath =
       SolarIconsData(0xea60, fontFamily: _fontFamily);
-  static const SolarIconsData Server_Square_Cloud =
+  static const SolarIconsData serverSquareCloud =
       SolarIconsData(0xea61, fontFamily: _fontFamily);
-  static const SolarIconsData Server_Square_Update =
+  static const SolarIconsData serverSquareUpdate =
       SolarIconsData(0xea62, fontFamily: _fontFamily);
-  static const SolarIconsData Turntable_Minimalistic =
+  static const SolarIconsData turntableMinimalistic =
       SolarIconsData(0xea63, fontFamily: _fontFamily);
-  static const SolarIconsData Turntable_Music_Note =
+  static const SolarIconsData turntableMusicNote =
       SolarIconsData(0xea64, fontFamily: _fontFamily);
-  static const SolarIconsData Turntable =
+  static const SolarIconsData turntable =
       SolarIconsData(0xea65, fontFamily: _fontFamily);
-  static const SolarIconsData Gamepad_Charge =
+  static const SolarIconsData gamepadCharge =
       SolarIconsData(0xea66, fontFamily: _fontFamily);
-  static const SolarIconsData Gamepad_Minimalistic =
+  static const SolarIconsData gamepadMinimalistic =
       SolarIconsData(0xea67, fontFamily: _fontFamily);
-  static const SolarIconsData Gamepad_No_Charge =
+  static const SolarIconsData gamepadNoCharge =
       SolarIconsData(0xea68, fontFamily: _fontFamily);
-  static const SolarIconsData Gamepad_Old =
+  static const SolarIconsData gamepadOld =
       SolarIconsData(0xea69, fontFamily: _fontFamily);
-  static const SolarIconsData Gamepad =
+  static const SolarIconsData gamepad =
       SolarIconsData(0xea6a, fontFamily: _fontFamily);
-  static const SolarIconsData Headphones_Round_Sound =
+  static const SolarIconsData headphonesRoundSound =
       SolarIconsData(0xea6b, fontFamily: _fontFamily);
-  static const SolarIconsData Headphones_Round =
+  static const SolarIconsData headphonesRound =
       SolarIconsData(0xea6c, fontFamily: _fontFamily);
-  static const SolarIconsData Headphones_Square_Sound =
+  static const SolarIconsData headphonesSquareSound =
       SolarIconsData(0xea6d, fontFamily: _fontFamily);
-  static const SolarIconsData Headphones_Square =
+  static const SolarIconsData headphonesSquare =
       SolarIconsData(0xea6e, fontFamily: _fontFamily);
   static const SolarIconsData iPhone =
       SolarIconsData(0xea6f, fontFamily: _fontFamily);
-  static const SolarIconsData Server_2 =
+  static const SolarIconsData server2 =
       SolarIconsData(0xea70, fontFamily: _fontFamily);
-  static const SolarIconsData Server_Square =
+  static const SolarIconsData serverSquare =
       SolarIconsData(0xea71, fontFamily: _fontFamily);
-  static const SolarIconsData Server =
+  static const SolarIconsData server =
       SolarIconsData(0xea72, fontFamily: _fontFamily);
-  static const SolarIconsData Smartphone_2 =
+  static const SolarIconsData smartphone2 =
       SolarIconsData(0xea73, fontFamily: _fontFamily);
-  static const SolarIconsData Smartphone_Rotate_2 =
+  static const SolarIconsData smartphoneRotate2 =
       SolarIconsData(0xea74, fontFamily: _fontFamily);
-  static const SolarIconsData Smartphone_Rotate_Angle =
+  static const SolarIconsData smartphoneRotateAngle =
       SolarIconsData(0xea75, fontFamily: _fontFamily);
-  static const SolarIconsData Smartphone_Rotate_Orientation =
+  static const SolarIconsData smartphoneRotateOrientation =
       SolarIconsData(0xea76, fontFamily: _fontFamily);
-  static const SolarIconsData Smartphone_Update =
+  static const SolarIconsData smartphoneUpdate =
       SolarIconsData(0xea77, fontFamily: _fontFamily);
-  static const SolarIconsData Smartphone_Vibration =
+  static const SolarIconsData smartphoneVibration =
       SolarIconsData(0xea78, fontFamily: _fontFamily);
-  static const SolarIconsData Smartphone =
+  static const SolarIconsData smartphone =
       SolarIconsData(0xea79, fontFamily: _fontFamily);
-  static const SolarIconsData Tablet =
+  static const SolarIconsData tablet =
       SolarIconsData(0xea7a, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Download =
+  static const SolarIconsData cloudDownload =
       SolarIconsData(0xea7b, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Upload =
+  static const SolarIconsData cloudUpload =
       SolarIconsData(0xea7c, fontFamily: _fontFamily);
-  static const SolarIconsData Cloudy_Moon =
+  static const SolarIconsData cloudyMoon =
       SolarIconsData(0xea7d, fontFamily: _fontFamily);
-  static const SolarIconsData Moon_Fog =
+  static const SolarIconsData moonFog =
       SolarIconsData(0xea7e, fontFamily: _fontFamily);
-  static const SolarIconsData Moon_Sleep =
+  static const SolarIconsData moonSleep =
       SolarIconsData(0xea7f, fontFamily: _fontFamily);
-  static const SolarIconsData Moon_Stars =
+  static const SolarIconsData moonStars =
       SolarIconsData(0xea80, fontFamily: _fontFamily);
-  static const SolarIconsData Moon =
+  static const SolarIconsData moon =
       SolarIconsData(0xea81, fontFamily: _fontFamily);
-  static const SolarIconsData Snowflake =
+  static const SolarIconsData snowflake =
       SolarIconsData(0xea82, fontFamily: _fontFamily);
-  static const SolarIconsData Stars =
+  static const SolarIconsData stars =
       SolarIconsData(0xea83, fontFamily: _fontFamily);
-  static const SolarIconsData Sun_2 =
+  static const SolarIconsData sun2 =
       SolarIconsData(0xea84, fontFamily: _fontFamily);
-  static const SolarIconsData Sun_Fog =
+  static const SolarIconsData sunfog =
       SolarIconsData(0xea85, fontFamily: _fontFamily);
-  static const SolarIconsData Sun =
+  static const SolarIconsData sun =
       SolarIconsData(0xea86, fontFamily: _fontFamily);
-  static const SolarIconsData Sunrise =
+  static const SolarIconsData sunrise =
       SolarIconsData(0xea87, fontFamily: _fontFamily);
-  static const SolarIconsData Sunset =
+  static const SolarIconsData sunset =
       SolarIconsData(0xea88, fontFamily: _fontFamily);
-  static const SolarIconsData Temperature =
+  static const SolarIconsData temperature =
       SolarIconsData(0xea89, fontFamily: _fontFamily);
-  static const SolarIconsData Tornado_Small =
+  static const SolarIconsData tornadoSmall =
       SolarIconsData(0xea8a, fontFamily: _fontFamily);
-  static const SolarIconsData Waterdrops =
+  static const SolarIconsData waterdrops =
       SolarIconsData(0xea8b, fontFamily: _fontFamily);
-  static const SolarIconsData Wind =
+  static const SolarIconsData wind =
       SolarIconsData(0xea8c, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Bolt_Minimalistic =
+  static const SolarIconsData cloudBoltMinimalistic =
       SolarIconsData(0xea8d, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Bolt =
+  static const SolarIconsData cloudBolt =
       SolarIconsData(0xea8e, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Check =
+  static const SolarIconsData cloudCheck =
       SolarIconsData(0xea8f, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Minus =
+  static const SolarIconsData cloudMinus =
       SolarIconsData(0xea90, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Plus =
+  static const SolarIconsData cloudPlus =
       SolarIconsData(0xea91, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Rain =
+  static const SolarIconsData cloudRain =
       SolarIconsData(0xea92, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Snowfall_Minimalistic =
+  static const SolarIconsData cloudSnowfallMinimalistic =
       SolarIconsData(0xea93, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Snowfall =
+  static const SolarIconsData cloudSnowfall =
       SolarIconsData(0xea94, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Storm =
+  static const SolarIconsData cloudStorm =
       SolarIconsData(0xea95, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Sun_2 =
+  static const SolarIconsData cloudSun2 =
       SolarIconsData(0xea96, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Sun =
+  static const SolarIconsData cloudSun =
       SolarIconsData(0xea97, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Waterdrop =
+  static const SolarIconsData cloudWaterdrop =
       SolarIconsData(0xea98, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_Waterdrops =
+  static const SolarIconsData cloudWaterdrops =
       SolarIconsData(0xea99, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud =
+  static const SolarIconsData cloud =
       SolarIconsData(0xea9a, fontFamily: _fontFamily);
-  static const SolarIconsData Clouds =
+  static const SolarIconsData clouds =
       SolarIconsData(0xea9b, fontFamily: _fontFamily);
-  static const SolarIconsData Clound_Cross =
+  static const SolarIconsData cloudCross =
       SolarIconsData(0xea9c, fontFamily: _fontFamily);
-  static const SolarIconsData Fog =
+  static const SolarIconsData fog =
       SolarIconsData(0xea9d, fontFamily: _fontFamily);
-  static const SolarIconsData Tornado =
+  static const SolarIconsData tornado =
       SolarIconsData(0xea9e, fontFamily: _fontFamily);
-  static const SolarIconsData File_Corrupted =
+  static const SolarIconsData fileCorrupted =
       SolarIconsData(0xea9f, fontFamily: _fontFamily);
-  static const SolarIconsData File_Smile__ =
+  static const SolarIconsData fileSmile =
       SolarIconsData(0xeaa0, fontFamily: _fontFamily);
-  static const SolarIconsData ZIP_File =
+  static const SolarIconsData zipFile =
       SolarIconsData(0xeaa1, fontFamily: _fontFamily);
-  static const SolarIconsData Code_File =
+  static const SolarIconsData codeFile =
       SolarIconsData(0xeaa2, fontFamily: _fontFamily);
-  static const SolarIconsData Figma_File =
+  static const SolarIconsData figmaFile =
       SolarIconsData(0xeaa3, fontFamily: _fontFamily);
-  static const SolarIconsData File_Check =
+  static const SolarIconsData fileCheck =
       SolarIconsData(0xeaa4, fontFamily: _fontFamily);
-  static const SolarIconsData File_Download =
+  static const SolarIconsData fileDownload =
       SolarIconsData(0xeaa5, fontFamily: _fontFamily);
-  static const SolarIconsData File_Favourite =
+  static const SolarIconsData fileFavourite =
       SolarIconsData(0xeaa6, fontFamily: _fontFamily);
-  static const SolarIconsData File_Left =
+  static const SolarIconsData fileLeft =
       SolarIconsData(0xeaa7, fontFamily: _fontFamily);
-  static const SolarIconsData File_Remove =
+  static const SolarIconsData fileRemove =
       SolarIconsData(0xeaa8, fontFamily: _fontFamily);
-  static const SolarIconsData File_Right =
+  static const SolarIconsData fileRight =
       SolarIconsData(0xeaa9, fontFamily: _fontFamily);
-  static const SolarIconsData File_Send =
+  static const SolarIconsData fileSend =
       SolarIconsData(0xeaaa, fontFamily: _fontFamily);
-  static const SolarIconsData File_Text =
+  static const SolarIconsData fileText =
       SolarIconsData(0xeaab, fontFamily: _fontFamily);
-  static const SolarIconsData File =
+  static const SolarIconsData file =
       SolarIconsData(0xeaac, fontFamily: _fontFamily);
-  static const SolarIconsData Cloud_File =
+  static const SolarIconsData cloudFile =
       SolarIconsData(0xeaad, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_2 =
+  static const SolarIconsData folder2 =
       SolarIconsData(0xeaae, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Check =
+  static const SolarIconsData folderCheck =
       SolarIconsData(0xeaaf, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Cloud =
+  static const SolarIconsData folderCloud =
       SolarIconsData(0xeab0, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Error =
+  static const SolarIconsData folderError =
       SolarIconsData(0xeab1, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Favourite_Bookmark =
+  static const SolarIconsData folderFavouriteBookmark =
       SolarIconsData(0xeab2, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Favourite_Star =
+  static const SolarIconsData folderFavouriteStar =
       SolarIconsData(0xeab3, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Open =
+  static const SolarIconsData folderOpen =
       SolarIconsData(0xeab4, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Path_Connect =
+  static const SolarIconsData folderPathConnect =
       SolarIconsData(0xeab5, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_Security =
+  static const SolarIconsData folderSecurity =
       SolarIconsData(0xeab6, fontFamily: _fontFamily);
-  static const SolarIconsData Folder_With_Files =
+  static const SolarIconsData folderWithFiles =
       SolarIconsData(0xeab7, fontFamily: _fontFamily);
-  static const SolarIconsData Folder =
+  static const SolarIconsData folder =
       SolarIconsData(0xeab8, fontFamily: _fontFamily);
-  static const SolarIconsData Move_To_Folder =
+  static const SolarIconsData moveToFolder =
       SolarIconsData(0xeab9, fontFamily: _fontFamily);
-  static const SolarIconsData Remove_Folder =
+  static const SolarIconsData removeFolder =
       SolarIconsData(0xeaba, fontFamily: _fontFamily);
-  static const SolarIconsData Add_Folder =
+  static const SolarIconsData addFolder =
       SolarIconsData(0xeabb, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Fall_2 =
+  static const SolarIconsData starFall2 =
       SolarIconsData(0xeabc, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Fall_Minimalistic_2 =
+  static const SolarIconsData starFallMinimalistic2 =
       SolarIconsData(0xeabd, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Fall_Minimalistic =
+  static const SolarIconsData starFallMinimalistic =
       SolarIconsData(0xeabe, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Ring =
+  static const SolarIconsData starRing =
       SolarIconsData(0xeabf, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Rings =
+  static const SolarIconsData starRings =
       SolarIconsData(0xeac0, fontFamily: _fontFamily);
-  static const SolarIconsData Star =
+  static const SolarIconsData star =
       SolarIconsData(0xeac1, fontFamily: _fontFamily);
-  static const SolarIconsData Stars_Line =
+  static const SolarIconsData starsLine =
       SolarIconsData(0xeac2, fontFamily: _fontFamily);
-  static const SolarIconsData Stars_Minimalistic =
+  static const SolarIconsData starsMinimalistic =
       SolarIconsData(0xeac3, fontFamily: _fontFamily);
-  static const SolarIconsData Stars1 =
+  static const SolarIconsData stars1 =
       SolarIconsData(0xeac4, fontFamily: _fontFamily);
-  static const SolarIconsData Asteroid =
+  static const SolarIconsData asteroid =
       SolarIconsData(0xeac5, fontFamily: _fontFamily);
-  static const SolarIconsData Atom =
+  static const SolarIconsData atom =
       SolarIconsData(0xeac6, fontFamily: _fontFamily);
-  static const SolarIconsData Black_Hole_2 =
+  static const SolarIconsData blackHole2 =
       SolarIconsData(0xeac7, fontFamily: _fontFamily);
-  static const SolarIconsData Black_Hole_3 =
+  static const SolarIconsData blackHole3 =
       SolarIconsData(0xeac8, fontFamily: _fontFamily);
-  static const SolarIconsData Black_Hole =
+  static const SolarIconsData blackHole =
       SolarIconsData(0xeac9, fontFamily: _fontFamily);
-  static const SolarIconsData Earth =
+  static const SolarIconsData earth =
       SolarIconsData(0xeaca, fontFamily: _fontFamily);
-  static const SolarIconsData Infinity =
+  static const SolarIconsData infinity =
       SolarIconsData(0xeacb, fontFamily: _fontFamily);
-  static const SolarIconsData Men =
+  static const SolarIconsData men =
       SolarIconsData(0xeacc, fontFamily: _fontFamily);
-  static const SolarIconsData Planet_2 =
+  static const SolarIconsData planet2 =
       SolarIconsData(0xeacd, fontFamily: _fontFamily);
-  static const SolarIconsData Planet_3 =
+  static const SolarIconsData planet3 =
       SolarIconsData(0xeace, fontFamily: _fontFamily);
-  static const SolarIconsData Planet_4 =
+  static const SolarIconsData planet4 =
       SolarIconsData(0xeacf, fontFamily: _fontFamily);
-  static const SolarIconsData Planet =
+  static const SolarIconsData planet =
       SolarIconsData(0xead0, fontFamily: _fontFamily);
-  static const SolarIconsData Rocket_2 =
+  static const SolarIconsData rocket2 =
       SolarIconsData(0xead1, fontFamily: _fontFamily);
-  static const SolarIconsData Rocket =
+  static const SolarIconsData rocket =
       SolarIconsData(0xead2, fontFamily: _fontFamily);
-  static const SolarIconsData Satellite =
+  static const SolarIconsData satellite =
       SolarIconsData(0xead3, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Angle =
+  static const SolarIconsData starAngle =
       SolarIconsData(0xead4, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Circle =
+  static const SolarIconsData starCircle =
       SolarIconsData(0xead5, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Fall =
+  static const SolarIconsData starFall =
       SolarIconsData(0xead6, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Rainbow =
+  static const SolarIconsData starRainbow =
       SolarIconsData(0xead7, fontFamily: _fontFamily);
-  static const SolarIconsData UFO_2 =
+  static const SolarIconsData ufo2 =
       SolarIconsData(0xead8, fontFamily: _fontFamily);
-  static const SolarIconsData UFO_3 =
+  static const SolarIconsData ufo3 =
       SolarIconsData(0xead9, fontFamily: _fontFamily);
-  static const SolarIconsData UFO =
+  static const SolarIconsData ufo =
       SolarIconsData(0xeada, fontFamily: _fontFamily);
-  static const SolarIconsData Women =
+  static const SolarIconsData women =
       SolarIconsData(0xeadb, fontFamily: _fontFamily);
-  static const SolarIconsData Confounded_Circle =
+  static const SolarIconsData confoundedCircle =
       SolarIconsData(0xeadc, fontFamily: _fontFamily);
-  static const SolarIconsData Confounded_Square =
+  static const SolarIconsData confoundedSquare =
       SolarIconsData(0xeadd, fontFamily: _fontFamily);
-  static const SolarIconsData Emoji_Funny_Circle =
+  static const SolarIconsData emojiFunnyCircle =
       SolarIconsData(0xeade, fontFamily: _fontFamily);
-  static const SolarIconsData Emoji_Funny_Square =
+  static const SolarIconsData emojiFunnySquare =
       SolarIconsData(0xeadf, fontFamily: _fontFamily);
-  static const SolarIconsData Face_Scan_Circle =
+  static const SolarIconsData faceScanCircle =
       SolarIconsData(0xeae0, fontFamily: _fontFamily);
-  static const SolarIconsData Face_Scan_Square =
+  static const SolarIconsData faceScanSquare =
       SolarIconsData(0xeae1, fontFamily: _fontFamily);
-  static const SolarIconsData Facemask_Circle =
+  static const SolarIconsData facemaskCircle =
       SolarIconsData(0xeae2, fontFamily: _fontFamily);
-  static const SolarIconsData Facemask_Square =
+  static const SolarIconsData facemaskSquare =
       SolarIconsData(0xeae3, fontFamily: _fontFamily);
-  static const SolarIconsData Sad_Circle =
+  static const SolarIconsData sadCircle =
       SolarIconsData(0xeae4, fontFamily: _fontFamily);
-  static const SolarIconsData Sad_Square =
+  static const SolarIconsData sadSquare =
       SolarIconsData(0xeae5, fontFamily: _fontFamily);
-  static const SolarIconsData Sleeping_Circle =
+  static const SolarIconsData sleepingCircle =
       SolarIconsData(0xeae6, fontFamily: _fontFamily);
-  static const SolarIconsData Sleeping_Square =
+  static const SolarIconsData sleepingSquare =
       SolarIconsData(0xeae7, fontFamily: _fontFamily);
-  static const SolarIconsData Sticker_Circle =
+  static const SolarIconsData stickerCircle =
       SolarIconsData(0xeae8, fontFamily: _fontFamily);
-  static const SolarIconsData Sticker_Smile_Circle_2 =
+  static const SolarIconsData stickerSmileCircle2 =
       SolarIconsData(0xeae9, fontFamily: _fontFamily);
-  static const SolarIconsData Sticker_Smile_Circle =
+  static const SolarIconsData stickerSmileCircle =
       SolarIconsData(0xeaea, fontFamily: _fontFamily);
-  static const SolarIconsData Sticker_Smile_Square =
+  static const SolarIconsData stickerSmileSquare =
       SolarIconsData(0xeaeb, fontFamily: _fontFamily);
-  static const SolarIconsData Sticker_Square =
+  static const SolarIconsData stickerSquare =
       SolarIconsData(0xeaec, fontFamily: _fontFamily);
-  static const SolarIconsData Expressionless_Circle =
+  static const SolarIconsData expressionlessCircle =
       SolarIconsData(0xeaed, fontFamily: _fontFamily);
-  static const SolarIconsData Expressionless_Square =
+  static const SolarIconsData expressionlessSquare =
       SolarIconsData(0xeaee, fontFamily: _fontFamily);
-  static const SolarIconsData Smile_Circle =
+  static const SolarIconsData smileCircle =
       SolarIconsData(0xeaef, fontFamily: _fontFamily);
-  static const SolarIconsData Smile_Square =
+  static const SolarIconsData smileSquare =
       SolarIconsData(0xeaf0, fontFamily: _fontFamily);
-  static const SolarIconsData Balls =
+  static const SolarIconsData balls =
       SolarIconsData(0xeaf1, fontFamily: _fontFamily);
-  static const SolarIconsData Basketball =
+  static const SolarIconsData basketball =
       SolarIconsData(0xeaf2, fontFamily: _fontFamily);
-  static const SolarIconsData Body_Shape_Minimalistic =
+  static const SolarIconsData bodyShapeMinimalistic =
       SolarIconsData(0xeaf3, fontFamily: _fontFamily);
-  static const SolarIconsData Body_Shape =
+  static const SolarIconsData bodyShape =
       SolarIconsData(0xeaf4, fontFamily: _fontFamily);
-  static const SolarIconsData Bowling =
+  static const SolarIconsData bowling =
       SolarIconsData(0xeaf5, fontFamily: _fontFamily);
-  static const SolarIconsData Dumbbell_Large_Minimalistic =
+  static const SolarIconsData dumbbellLargeMinimalistic =
       SolarIconsData(0xeaf6, fontFamily: _fontFamily);
-  static const SolarIconsData Dumbbell_Large =
+  static const SolarIconsData dumbbellLarge =
       SolarIconsData(0xeaf7, fontFamily: _fontFamily);
-  static const SolarIconsData Dumbbell_Small =
+  static const SolarIconsData dumbbellSmall =
       SolarIconsData(0xeaf8, fontFamily: _fontFamily);
-  static const SolarIconsData Dumbbell =
+  static const SolarIconsData dumbbell =
       SolarIconsData(0xeaf9, fontFamily: _fontFamily);
-  static const SolarIconsData Dumbbells_2 =
+  static const SolarIconsData dumbbells2 =
       SolarIconsData(0xeafa, fontFamily: _fontFamily);
-  static const SolarIconsData Dumbbells =
+  static const SolarIconsData dumbbells =
       SolarIconsData(0xeafb, fontFamily: _fontFamily);
-  static const SolarIconsData Football =
+  static const SolarIconsData football =
       SolarIconsData(0xeafc, fontFamily: _fontFamily);
-  static const SolarIconsData Golf =
+  static const SolarIconsData golf =
       SolarIconsData(0xeafd, fontFamily: _fontFamily);
-  static const SolarIconsData Meditation_Round =
+  static const SolarIconsData meditationRound =
       SolarIconsData(0xeafe, fontFamily: _fontFamily);
-  static const SolarIconsData Meditation =
+  static const SolarIconsData meditation =
       SolarIconsData(0xeaff, fontFamily: _fontFamily);
-  static const SolarIconsData Ranking =
+  static const SolarIconsData ranking =
       SolarIconsData(0xeb00, fontFamily: _fontFamily);
-  static const SolarIconsData Rugby =
+  static const SolarIconsData rugby =
       SolarIconsData(0xeb01, fontFamily: _fontFamily);
-  static const SolarIconsData Running_Round =
+  static const SolarIconsData running_Round =
       SolarIconsData(0xeb02, fontFamily: _fontFamily);
-  static const SolarIconsData Stretching_Round =
+  static const SolarIconsData stretchingRound =
       SolarIconsData(0xeb03, fontFamily: _fontFamily);
-  static const SolarIconsData Stretching =
+  static const SolarIconsData stretching =
       SolarIconsData(0xeb04, fontFamily: _fontFamily);
-  static const SolarIconsData Swimming =
+  static const SolarIconsData swimming =
       SolarIconsData(0xeb05, fontFamily: _fontFamily);
-  static const SolarIconsData Tennis_2 =
+  static const SolarIconsData tennis2 =
       SolarIconsData(0xeb06, fontFamily: _fontFamily);
-  static const SolarIconsData Tennis =
+  static const SolarIconsData tennis =
       SolarIconsData(0xeb07, fontFamily: _fontFamily);
-  static const SolarIconsData Treadmill_Round =
+  static const SolarIconsData treadmillRound =
       SolarIconsData(0xeb08, fontFamily: _fontFamily);
-  static const SolarIconsData Treadmill =
+  static const SolarIconsData treadmill =
       SolarIconsData(0xeb09, fontFamily: _fontFamily);
-  static const SolarIconsData Volleyball_2 =
+  static const SolarIconsData volleyball2 =
       SolarIconsData(0xeb0a, fontFamily: _fontFamily);
-  static const SolarIconsData Volleyball =
+  static const SolarIconsData volleyball =
       SolarIconsData(0xeb0b, fontFamily: _fontFamily);
-  static const SolarIconsData Water_Sun =
+  static const SolarIconsData waterSun =
       SolarIconsData(0xeb0c, fontFamily: _fontFamily);
-  static const SolarIconsData Water =
+  static const SolarIconsData water =
       SolarIconsData(0xeb0d, fontFamily: _fontFamily);
-  static const SolarIconsData Bicycling_Round =
+  static const SolarIconsData bicyclingRound =
       SolarIconsData(0xeb0e, fontFamily: _fontFamily);
-  static const SolarIconsData Bicycling =
+  static const SolarIconsData bicycling =
       SolarIconsData(0xeb0f, fontFamily: _fontFamily);
-  static const SolarIconsData Hiking_Minimalistic =
+  static const SolarIconsData hiking_Minimalistic =
       SolarIconsData(0xeb10, fontFamily: _fontFamily);
-  static const SolarIconsData Hiking_Round =
+  static const SolarIconsData hiking_Round =
       SolarIconsData(0xeb11, fontFamily: _fontFamily);
-  static const SolarIconsData Hiking =
+  static const SolarIconsData hiking =
       SolarIconsData(0xeb12, fontFamily: _fontFamily);
-  static const SolarIconsData Running_2 =
+  static const SolarIconsData running_2 =
       SolarIconsData(0xeb13, fontFamily: _fontFamily);
-  static const SolarIconsData Running =
+  static const SolarIconsData running =
       SolarIconsData(0xeb14, fontFamily: _fontFamily);
-  static const SolarIconsData Skateboard =
+  static const SolarIconsData skateboard =
       SolarIconsData(0xeb15, fontFamily: _fontFamily);
-  static const SolarIconsData Skateboarding_Round =
+  static const SolarIconsData skateboarding_Round =
       SolarIconsData(0xeb16, fontFamily: _fontFamily);
-  static const SolarIconsData Skateboarding =
+  static const SolarIconsData skateboarding =
       SolarIconsData(0xeb17, fontFamily: _fontFamily);
-  static const SolarIconsData Walking_Round =
+  static const SolarIconsData walking_Round =
       SolarIconsData(0xeb18, fontFamily: _fontFamily);
-  static const SolarIconsData Walking =
+  static const SolarIconsData walking =
       SolarIconsData(0xeb19, fontFamily: _fontFamily);
-  static const SolarIconsData Magnifer_Bug =
+  static const SolarIconsData magnifier_Bug =
       SolarIconsData(0xeb1a, fontFamily: _fontFamily);
-  static const SolarIconsData Magnifer_Zoom_In =
+  static const SolarIconsData magnifier_Zoom_In =
       SolarIconsData(0xeb1b, fontFamily: _fontFamily);
-  static const SolarIconsData Magnifer_Zoom_Out =
+  static const SolarIconsData magnifier_Zoom_Out =
       SolarIconsData(0xeb1c, fontFamily: _fontFamily);
-  static const SolarIconsData Magnifer =
+  static const SolarIconsData magnifier =
       SolarIconsData(0xeb1d, fontFamily: _fontFamily);
-  static const SolarIconsData Minimalistic_Magnifer_Bug =
+  static const SolarIconsData minimalistic_Magnifer_Bug =
       SolarIconsData(0xeb1e, fontFamily: _fontFamily);
-  static const SolarIconsData Minimalistic_Magnifer_Zoom_In =
+  static const SolarIconsData minimalistic_Magnifer_Zoom_In =
       SolarIconsData(0xeb1f, fontFamily: _fontFamily);
-  static const SolarIconsData Minimalistic_Magnifer_Zoom_Out =
+  static const SolarIconsData minimalistic_Magnifer_Zoom_Out =
       SolarIconsData(0xeb20, fontFamily: _fontFamily);
-  static const SolarIconsData Minimalistic_Magnifer =
+  static const SolarIconsData minimalistic_Magnifer =
       SolarIconsData(0xeb21, fontFamily: _fontFamily);
-  static const SolarIconsData Rounded_Magnifer_Bug =
+  static const SolarIconsData rounded_Magnifer_Bug =
       SolarIconsData(0xeb22, fontFamily: _fontFamily);
-  static const SolarIconsData Rounded_Magnifer_Zoom_In =
+  static const SolarIconsData rounded_Magnifer_Zoom_In =
       SolarIconsData(0xeb23, fontFamily: _fontFamily);
-  static const SolarIconsData Rounded_Magnifer_Zoom_Out =
+  static const SolarIconsData rounded_Magnifer_Zoom_Out =
       SolarIconsData(0xeb24, fontFamily: _fontFamily);
-  static const SolarIconsData Rounded_Magnifer =
+  static const SolarIconsData rounded_Magnifer =
       SolarIconsData(0xeb25, fontFamily: _fontFamily);
-  static const SolarIconsData Calendar_Add =
+  static const SolarIconsData calendar_Add =
       SolarIconsData(0xeb26, fontFamily: _fontFamily);
-  static const SolarIconsData Calendar_Date =
+  static const SolarIconsData calendar_Date =
       SolarIconsData(0xeb27, fontFamily: _fontFamily);
-  static const SolarIconsData Calendar_Mark =
+  static const SolarIconsData calendar_Mark =
       SolarIconsData(0xeb28, fontFamily: _fontFamily);
-  static const SolarIconsData Calendar_Minimalistic =
+  static const SolarIconsData calendar_Minimalistic =
       SolarIconsData(0xeb29, fontFamily: _fontFamily);
-  static const SolarIconsData Calendar_Search =
+  static const SolarIconsData calendar_Search =
       SolarIconsData(0xeb2a, fontFamily: _fontFamily);
-  static const SolarIconsData Calendar =
+  static const SolarIconsData calendar =
       SolarIconsData(0xeb2b, fontFamily: _fontFamily);
-  static const SolarIconsData Hourglass_Line =
+  static const SolarIconsData hourglass_Line =
       SolarIconsData(0xeb2c, fontFamily: _fontFamily);
-  static const SolarIconsData Watch_Round =
+  static const SolarIconsData watch_Round =
       SolarIconsData(0xeb2d, fontFamily: _fontFamily);
-  static const SolarIconsData Watch_Square_Minimalistic_Charge =
+  static const SolarIconsData watch_Square_Minimalistic_Charge =
       SolarIconsData(0xeb2e, fontFamily: _fontFamily);
-  static const SolarIconsData Watch_Square_Minimalistic =
+  static const SolarIconsData watch_Square_Minimalistic =
       SolarIconsData(0xeb2f, fontFamily: _fontFamily);
-  static const SolarIconsData Watch_Square =
+  static const SolarIconsData watch_Square =
       SolarIconsData(0xeb30, fontFamily: _fontFamily);
-  static const SolarIconsData Alarm_Add =
+  static const SolarIconsData alarm_Add =
       SolarIconsData(0xeb31, fontFamily: _fontFamily);
-  static const SolarIconsData Alarm_Pause =
+  static const SolarIconsData alarm_Pause =
       SolarIconsData(0xeb32, fontFamily: _fontFamily);
-  static const SolarIconsData Alarm_Play =
+  static const SolarIconsData alarm_Play =
       SolarIconsData(0xeb33, fontFamily: _fontFamily);
-  static const SolarIconsData Alarm_Remove =
+  static const SolarIconsData alarm_Remove =
       SolarIconsData(0xeb34, fontFamily: _fontFamily);
-  static const SolarIconsData Alarm_Sleep =
+  static const SolarIconsData alarm_Sleep =
       SolarIconsData(0xeb35, fontFamily: _fontFamily);
-  static const SolarIconsData Alarm_Turn_Off =
+  static const SolarIconsData alarm_Turn_Off =
       SolarIconsData(0xeb36, fontFamily: _fontFamily);
-  static const SolarIconsData Alarm =
+  static const SolarIconsData alarm =
       SolarIconsData(0xeb37, fontFamily: _fontFamily);
-  static const SolarIconsData Clock_Circle =
+  static const SolarIconsData clock_Circle =
       SolarIconsData(0xeb38, fontFamily: _fontFamily);
-  static const SolarIconsData Clock_Square =
+  static const SolarIconsData clock_Square =
       SolarIconsData(0xeb39, fontFamily: _fontFamily);
-  static const SolarIconsData History_2 =
+  static const SolarIconsData history_2 =
       SolarIconsData(0xeb3a, fontFamily: _fontFamily);
-  static const SolarIconsData History_3 =
+  static const SolarIconsData history3 =
       SolarIconsData(0xeb3b, fontFamily: _fontFamily);
-  static const SolarIconsData History =
+  static const SolarIconsData history =
       SolarIconsData(0xeb3c, fontFamily: _fontFamily);
-  static const SolarIconsData Hourglass =
+  static const SolarIconsData hourglass =
       SolarIconsData(0xeb3d, fontFamily: _fontFamily);
-  static const SolarIconsData Stopwatch_Pause =
+  static const SolarIconsData stopwatch_Pause =
       SolarIconsData(0xeb3e, fontFamily: _fontFamily);
-  static const SolarIconsData Stopwatch_Play =
+  static const SolarIconsData stopwatch_Play =
       SolarIconsData(0xeb3f, fontFamily: _fontFamily);
-  static const SolarIconsData Stopwatch =
+  static const SolarIconsData stopwatch =
       SolarIconsData(0xeb40, fontFamily: _fontFamily);
-  static const SolarIconsData Sort_From_Top_To_Bottom =
+  static const SolarIconsData sort_From_Top_To_Bottom =
       SolarIconsData(0xeb41, fontFamily: _fontFamily);
-  static const SolarIconsData Sort_From_Bottom_To_Top =
+  static const SolarIconsData sort_From_Bottom_To_Top =
       SolarIconsData(0xeb42, fontFamily: _fontFamily);
-  static const SolarIconsData Sort_By_Time =
+  static const SolarIconsData sort_By_Time =
       SolarIconsData(0xeb43, fontFamily: _fontFamily);
-  static const SolarIconsData Sort_By_Alphabet =
+  static const SolarIconsData sort_By_Alphabet =
       SolarIconsData(0xeb44, fontFamily: _fontFamily);
-  static const SolarIconsData Playlist =
+  static const SolarIconsData playlist =
       SolarIconsData(0xeb45, fontFamily: _fontFamily);
-  static const SolarIconsData Playlist_Minimalistic_3 =
+  static const SolarIconsData playlist_Minimalistic_3 =
       SolarIconsData(0xeb46, fontFamily: _fontFamily);
-  static const SolarIconsData Playlist_Minimalistic_2 =
+  static const SolarIconsData playlist_Minimalistic_2 =
       SolarIconsData(0xeb47, fontFamily: _fontFamily);
-  static const SolarIconsData Playlist_2 =
+  static const SolarIconsData playlist_2 =
       SolarIconsData(0xeb48, fontFamily: _fontFamily);
-  static const SolarIconsData Plaaylist_Minimalistic =
+  static const SolarIconsData playlistMinimalistic =
       SolarIconsData(0xeb49, fontFamily: _fontFamily);
-  static const SolarIconsData List_1 =
+  static const SolarIconsData list_1 =
       SolarIconsData(0xeb4a, fontFamily: _fontFamily);
-  static const SolarIconsData List =
+  static const SolarIconsData list =
       SolarIconsData(0xeb4b, fontFamily: _fontFamily);
-  static const SolarIconsData List_Up =
+  static const SolarIconsData list_Up =
       SolarIconsData(0xeb4c, fontFamily: _fontFamily);
-  static const SolarIconsData List_Up_Minimalistic =
+  static const SolarIconsData list_Up_Minimalistic =
       SolarIconsData(0xeb4d, fontFamily: _fontFamily);
-  static const SolarIconsData List_Heart =
+  static const SolarIconsData list_Heart =
       SolarIconsData(0xeb4e, fontFamily: _fontFamily);
-  static const SolarIconsData List_Heart_Minimalistic =
+  static const SolarIconsData list_Heart_Minimalistic =
       SolarIconsData(0xeb4f, fontFamily: _fontFamily);
-  static const SolarIconsData List_Down =
+  static const SolarIconsData list_Down =
       SolarIconsData(0xeb50, fontFamily: _fontFamily);
-  static const SolarIconsData List_Down_Minimalistic =
+  static const SolarIconsData list_Down_Minimalistic =
       SolarIconsData(0xeb51, fontFamily: _fontFamily);
-  static const SolarIconsData List_Cross =
+  static const SolarIconsData list_Cross =
       SolarIconsData(0xeb52, fontFamily: _fontFamily);
-  static const SolarIconsData List_Cross_Minimalistic =
+  static const SolarIconsData list_Cross_Minimalistic =
       SolarIconsData(0xeb53, fontFamily: _fontFamily);
-  static const SolarIconsData List_Check =
+  static const SolarIconsData list_Check =
       SolarIconsData(0xeb54, fontFamily: _fontFamily);
-  static const SolarIconsData List_Check_Minimalistic =
+  static const SolarIconsData list_Check_Minimalistic =
       SolarIconsData(0xeb55, fontFamily: _fontFamily);
-  static const SolarIconsData List_Arrow_Up =
+  static const SolarIconsData list_arrowUp =
       SolarIconsData(0xeb56, fontFamily: _fontFamily);
-  static const SolarIconsData List_Arrow_Up_Minimalistic =
+  static const SolarIconsData list_arrowUp_Minimalistic =
       SolarIconsData(0xeb57, fontFamily: _fontFamily);
-  static const SolarIconsData List_Arrow_Down =
+  static const SolarIconsData list_arrowDown =
       SolarIconsData(0xeb58, fontFamily: _fontFamily);
-  static const SolarIconsData List_Arrow_Down_Minimalistic =
+  static const SolarIconsData list_arrowDown_Minimalistic =
       SolarIconsData(0xeb59, fontFamily: _fontFamily);
-  static const SolarIconsData Checklist =
+  static const SolarIconsData checklist =
       SolarIconsData(0xeb5a, fontFamily: _fontFamily);
-  static const SolarIconsData Checklist_Minimalistic =
+  static const SolarIconsData checklist_Minimalistic =
       SolarIconsData(0xeb5b, fontFamily: _fontFamily);
-  static const SolarIconsData Bill1 =
+  static const SolarIconsData bill1 =
       SolarIconsData(0xeb5c, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Medicine =
+  static const SolarIconsData call_Medicine =
       SolarIconsData(0xeb5d, fontFamily: _fontFamily);
-  static const SolarIconsData Record_Circle1 =
+  static const SolarIconsData record_Circle1 =
       SolarIconsData(0xeb5e, fontFamily: _fontFamily);
-  static const SolarIconsData Record_Minimalistic =
+  static const SolarIconsData record_Minimalistic =
       SolarIconsData(0xeb5f, fontFamily: _fontFamily);
-  static const SolarIconsData Record_Square =
+  static const SolarIconsData record_Square =
       SolarIconsData(0xeb60, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Cancel_Rounded =
+  static const SolarIconsData call_Cancel_Rounded =
       SolarIconsData(0xeb61, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Cancel =
+  static const SolarIconsData call_Cancel =
       SolarIconsData(0xeb62, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Chat_Rounded =
+  static const SolarIconsData call_chatRounded =
       SolarIconsData(0xeb63, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Chat =
+  static const SolarIconsData call_Chat =
       SolarIconsData(0xeb64, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Dropped_Rounded =
+  static const SolarIconsData call_Dropped_Rounded =
       SolarIconsData(0xeb65, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Dropped =
+  static const SolarIconsData call_Dropped =
       SolarIconsData(0xeb66, fontFamily: _fontFamily);
-  static const SolarIconsData Call_Medicine_Rounded =
+  static const SolarIconsData call_Medicine_Rounded =
       SolarIconsData(0xeb67, fontFamily: _fontFamily);
-  static const SolarIconsData End_Call_Rounded =
+  static const SolarIconsData end_Call_Rounded =
       SolarIconsData(0xeb68, fontFamily: _fontFamily);
-  static const SolarIconsData End_Call =
+  static const SolarIconsData end_Call =
       SolarIconsData(0xeb69, fontFamily: _fontFamily);
-  static const SolarIconsData Incoming_Call_Rounded =
+  static const SolarIconsData incoming_Call_Rounded =
       SolarIconsData(0xeb6a, fontFamily: _fontFamily);
-  static const SolarIconsData Incoming_Call =
+  static const SolarIconsData incoming_Call =
       SolarIconsData(0xeb6b, fontFamily: _fontFamily);
-  static const SolarIconsData Outgoing_Call_Rounded =
+  static const SolarIconsData outgoing_Call_Rounded =
       SolarIconsData(0xeb6c, fontFamily: _fontFamily);
-  static const SolarIconsData Outgoing_Call =
+  static const SolarIconsData outgoing_Call =
       SolarIconsData(0xeb6d, fontFamily: _fontFamily);
-  static const SolarIconsData Phone_Calling_Rounded =
+  static const SolarIconsData phone_Calling_Rounded =
       SolarIconsData(0xeb6e, fontFamily: _fontFamily);
-  static const SolarIconsData Phone_Calling =
+  static const SolarIconsData phone_Calling =
       SolarIconsData(0xeb6f, fontFamily: _fontFamily);
-  static const SolarIconsData Phone_Rounded =
+  static const SolarIconsData phone_Rounded =
       SolarIconsData(0xeb70, fontFamily: _fontFamily);
-  static const SolarIconsData Phone =
+  static const SolarIconsData phone =
       SolarIconsData(0xeb71, fontFamily: _fontFamily);
-  static const SolarIconsData Health =
+  static const SolarIconsData health =
       SolarIconsData(0xeb72, fontFamily: _fontFamily);
-  static const SolarIconsData Heart_Pulse_2 =
+  static const SolarIconsData heart_Pulse_2 =
       SolarIconsData(0xeb73, fontFamily: _fontFamily);
-  static const SolarIconsData Heart_Pulse =
+  static const SolarIconsData heart_Pulse =
       SolarIconsData(0xeb74, fontFamily: _fontFamily);
-  static const SolarIconsData Medical_Kit =
+  static const SolarIconsData medicalKit =
       SolarIconsData(0xeb75, fontFamily: _fontFamily);
-  static const SolarIconsData Pulse_2 =
+  static const SolarIconsData pulse_2 =
       SolarIconsData(0xeb76, fontFamily: _fontFamily);
-  static const SolarIconsData Pulse =
+  static const SolarIconsData pulse =
       SolarIconsData(0xeb77, fontFamily: _fontFamily);
-  static const SolarIconsData Test_Tube_Minimalistic =
+  static const SolarIconsData test_Tube_Minimalistic =
       SolarIconsData(0xeb78, fontFamily: _fontFamily);
-  static const SolarIconsData Test_Tube =
+  static const SolarIconsData test_Tube =
       SolarIconsData(0xeb79, fontFamily: _fontFamily);
-  static const SolarIconsData Virus =
+  static const SolarIconsData virus =
       SolarIconsData(0xeb7a, fontFamily: _fontFamily);
-  static const SolarIconsData Adhesive_Plaster_2 =
+  static const SolarIconsData adhesive_Plaster_2 =
       SolarIconsData(0xeb7b, fontFamily: _fontFamily);
-  static const SolarIconsData Adhesive_Plaster =
+  static const SolarIconsData adhesive_Plaster =
       SolarIconsData(0xeb7c, fontFamily: _fontFamily);
-  static const SolarIconsData Bacteria =
+  static const SolarIconsData bacteria =
       SolarIconsData(0xeb7d, fontFamily: _fontFamily);
-  static const SolarIconsData Benzene_Ring =
+  static const SolarIconsData benzeneRing =
       SolarIconsData(0xeb7e, fontFamily: _fontFamily);
-  static const SolarIconsData Bone_Broken =
+  static const SolarIconsData bone_Broken =
       SolarIconsData(0xeb7f, fontFamily: _fontFamily);
-  static const SolarIconsData Bone_Crack =
+  static const SolarIconsData bone_Crack =
       SolarIconsData(0xeb80, fontFamily: _fontFamily);
-  static const SolarIconsData Bone =
+  static const SolarIconsData bone =
       SolarIconsData(0xeb81, fontFamily: _fontFamily);
-  static const SolarIconsData Bones =
+  static const SolarIconsData bones =
       SolarIconsData(0xeb82, fontFamily: _fontFamily);
-  static const SolarIconsData DNA =
+  static const SolarIconsData dna =
       SolarIconsData(0xeb83, fontFamily: _fontFamily);
-  static const SolarIconsData Dropper_2 =
+  static const SolarIconsData dropper_2 =
       SolarIconsData(0xeb84, fontFamily: _fontFamily);
-  static const SolarIconsData Dropper_3 =
+  static const SolarIconsData dropper_3 =
       SolarIconsData(0xeb85, fontFamily: _fontFamily);
-  static const SolarIconsData Dropper_Minimalistic_2 =
+  static const SolarIconsData dropper_Minimalistic_2 =
       SolarIconsData(0xeb86, fontFamily: _fontFamily);
-  static const SolarIconsData Dropper_Minimalistic =
+  static const SolarIconsData dropper_Minimalistic =
       SolarIconsData(0xeb87, fontFamily: _fontFamily);
-  static const SolarIconsData Dropper =
+  static const SolarIconsData dropper =
       SolarIconsData(0xeb88, fontFamily: _fontFamily);
-  static const SolarIconsData Jar_Of_Pills_2 =
+  static const SolarIconsData jar_Of_Pills_2 =
       SolarIconsData(0xeb89, fontFamily: _fontFamily);
-  static const SolarIconsData Jar_Of_Pills =
+  static const SolarIconsData jar_Of_Pills =
       SolarIconsData(0xeb8a, fontFamily: _fontFamily);
-  static const SolarIconsData Pill =
+  static const SolarIconsData pill =
       SolarIconsData(0xeb8b, fontFamily: _fontFamily);
-  static const SolarIconsData Pills_2 =
+  static const SolarIconsData pills_2 =
       SolarIconsData(0xeb8c, fontFamily: _fontFamily);
-  static const SolarIconsData Pills_3 =
+  static const SolarIconsData pills_3 =
       SolarIconsData(0xeb8d, fontFamily: _fontFamily);
-  static const SolarIconsData Pills =
+  static const SolarIconsData pills =
       SolarIconsData(0xeb8e, fontFamily: _fontFamily);
-  static const SolarIconsData Stethoscope =
+  static const SolarIconsData stethoscope =
       SolarIconsData(0xeb8f, fontFamily: _fontFamily);
-  static const SolarIconsData Syringe =
+  static const SolarIconsData syringe =
       SolarIconsData(0xeb90, fontFamily: _fontFamily);
-  static const SolarIconsData Thermometer =
+  static const SolarIconsData thermometer =
       SolarIconsData(0xeb91, fontFamily: _fontFamily);
-  static const SolarIconsData Armchair_2 =
+  static const SolarIconsData armchair_2 =
       SolarIconsData(0xeb92, fontFamily: _fontFamily);
-  static const SolarIconsData Armchair =
+  static const SolarIconsData armchair =
       SolarIconsData(0xeb93, fontFamily: _fontFamily);
-  static const SolarIconsData Bar_Chair =
+  static const SolarIconsData bar_Chair =
       SolarIconsData(0xeb94, fontFamily: _fontFamily);
-  static const SolarIconsData Bed =
+  static const SolarIconsData bed =
       SolarIconsData(0xeb95, fontFamily: _fontFamily);
-  static const SolarIconsData Bedside_Table_2 =
+  static const SolarIconsData bedside_Table_2 =
       SolarIconsData(0xeb96, fontFamily: _fontFamily);
-  static const SolarIconsData Bedside_Table_3 =
+  static const SolarIconsData bedside_Table_3 =
       SolarIconsData(0xeb97, fontFamily: _fontFamily);
-  static const SolarIconsData Bedside_Table =
+  static const SolarIconsData bedside_Table =
       SolarIconsData(0xeb98, fontFamily: _fontFamily);
-  static const SolarIconsData Chair_2 =
+  static const SolarIconsData chair_2 =
       SolarIconsData(0xeb99, fontFamily: _fontFamily);
-  static const SolarIconsData Chair =
+  static const SolarIconsData chair =
       SolarIconsData(0xeb9a, fontFamily: _fontFamily);
-  static const SolarIconsData Closet_2 =
+  static const SolarIconsData closet_2 =
       SolarIconsData(0xeb9b, fontFamily: _fontFamily);
-  static const SolarIconsData Floor_Lamp_Minimalistic =
+  static const SolarIconsData floor_Lamp_Minimalistic =
       SolarIconsData(0xeb9c, fontFamily: _fontFamily);
-  static const SolarIconsData Floor_Lamp =
+  static const SolarIconsData floor_Lamp =
       SolarIconsData(0xeb9d, fontFamily: _fontFamily);
-  static const SolarIconsData Fridge =
+  static const SolarIconsData fridge =
       SolarIconsData(0xeb9e, fontFamily: _fontFamily);
-  static const SolarIconsData Lamp =
+  static const SolarIconsData lamp =
       SolarIconsData(0xeb9f, fontFamily: _fontFamily);
-  static const SolarIconsData Smart_Vacuum_Cleaner_2 =
+  static const SolarIconsData smart_Vacuum_Cleaner_2 =
       SolarIconsData(0xeba0, fontFamily: _fontFamily);
-  static const SolarIconsData Smart_Vacuum_Cleaner =
+  static const SolarIconsData smart_Vacuum_Cleaner =
       SolarIconsData(0xeba1, fontFamily: _fontFamily);
-  static const SolarIconsData Volume_Knob =
+  static const SolarIconsData volume_Knob =
       SolarIconsData(0xeba2, fontFamily: _fontFamily);
-  static const SolarIconsData Bath =
+  static const SolarIconsData bath =
       SolarIconsData(0xeba3, fontFamily: _fontFamily);
-  static const SolarIconsData Bedside_Table_4 =
+  static const SolarIconsData bedside_Table_4 =
       SolarIconsData(0xeba4, fontFamily: _fontFamily);
-  static const SolarIconsData Chandelier =
+  static const SolarIconsData chandelier =
       SolarIconsData(0xeba5, fontFamily: _fontFamily);
-  static const SolarIconsData Closet =
+  static const SolarIconsData closet =
       SolarIconsData(0xeba6, fontFamily: _fontFamily);
-  static const SolarIconsData Condicioner_2 =
+  static const SolarIconsData conditioner_2 =
       SolarIconsData(0xeba7, fontFamily: _fontFamily);
-  static const SolarIconsData Condicioner =
+  static const SolarIconsData conditioner =
       SolarIconsData(0xeba8, fontFamily: _fontFamily);
-  static const SolarIconsData Mirror =
+  static const SolarIconsData mirror =
       SolarIconsData(0xeba9, fontFamily: _fontFamily);
-  static const SolarIconsData Remote_Controller_2 =
+  static const SolarIconsData remote_Controller_2 =
       SolarIconsData(0xebaa, fontFamily: _fontFamily);
-  static const SolarIconsData Remote_Controller_Minimalistic =
+  static const SolarIconsData remote_Controller_Minimalistic =
       SolarIconsData(0xebab, fontFamily: _fontFamily);
-  static const SolarIconsData Remote_Controller =
+  static const SolarIconsData remote_Controller =
       SolarIconsData(0xebac, fontFamily: _fontFamily);
-  static const SolarIconsData Sofa_2 =
+  static const SolarIconsData sofa_2 =
       SolarIconsData(0xebad, fontFamily: _fontFamily);
-  static const SolarIconsData Sofa_3 =
+  static const SolarIconsData sofa_3 =
       SolarIconsData(0xebae, fontFamily: _fontFamily);
-  static const SolarIconsData Sofa =
+  static const SolarIconsData sofa =
       SolarIconsData(0xebaf, fontFamily: _fontFamily);
-  static const SolarIconsData Speaker_Minimalistic =
+  static const SolarIconsData speaker_Minimalistic =
       SolarIconsData(0xebb0, fontFamily: _fontFamily);
-  static const SolarIconsData Speaker =
+  static const SolarIconsData speaker =
       SolarIconsData(0xebb1, fontFamily: _fontFamily);
-  static const SolarIconsData Trellis =
+  static const SolarIconsData trellis =
       SolarIconsData(0xebb2, fontFamily: _fontFamily);
-  static const SolarIconsData Washing_Machine_Minimalistic =
+  static const SolarIconsData washing_Machine_Minimalistic =
       SolarIconsData(0xebb3, fontFamily: _fontFamily);
-  static const SolarIconsData Washing_Machine =
+  static const SolarIconsData washing_Machine =
       SolarIconsData(0xebb4, fontFamily: _fontFamily);
-  static const SolarIconsData Bug_Minimalistic =
+  static const SolarIconsData bug_Minimalistic =
       SolarIconsData(0xebb5, fontFamily: _fontFamily);
-  static const SolarIconsData Bug =
+  static const SolarIconsData bug =
       SolarIconsData(0xebb6, fontFamily: _fontFamily);
-  static const SolarIconsData Code_2 =
+  static const SolarIconsData code_2 =
       SolarIconsData(0xebb7, fontFamily: _fontFamily);
-  static const SolarIconsData Code_Circle =
+  static const SolarIconsData code_Circle =
       SolarIconsData(0xebb8, fontFamily: _fontFamily);
-  static const SolarIconsData Code_Square =
+  static const SolarIconsData code_Square =
       SolarIconsData(0xebb9, fontFamily: _fontFamily);
-  static const SolarIconsData Code =
+  static const SolarIconsData code =
       SolarIconsData(0xebba, fontFamily: _fontFamily);
-  static const SolarIconsData Command =
+  static const SolarIconsData command =
       SolarIconsData(0xebbb, fontFamily: _fontFamily);
-  static const SolarIconsData Hashtag_Chat =
+  static const SolarIconsData hashtag_Chat =
       SolarIconsData(0xebbc, fontFamily: _fontFamily);
-  static const SolarIconsData Hashtag_Circle =
+  static const SolarIconsData hashtag_Circle =
       SolarIconsData(0xebbd, fontFamily: _fontFamily);
-  static const SolarIconsData Hashtag_Square =
+  static const SolarIconsData hashtag_Square =
       SolarIconsData(0xebbe, fontFamily: _fontFamily);
-  static const SolarIconsData Hashtag =
+  static const SolarIconsData hashtag =
       SolarIconsData(0xebbf, fontFamily: _fontFamily);
-  static const SolarIconsData Programming =
+  static const SolarIconsData programming =
       SolarIconsData(0xebc0, fontFamily: _fontFamily);
-  static const SolarIconsData Screencast_2 =
+  static const SolarIconsData screencast_2 =
       SolarIconsData(0xebc1, fontFamily: _fontFamily);
-  static const SolarIconsData Screencast =
+  static const SolarIconsData screencast =
       SolarIconsData(0xebc2, fontFamily: _fontFamily);
-  static const SolarIconsData Slash_Circle =
+  static const SolarIconsData slash_Circle =
       SolarIconsData(0xebc3, fontFamily: _fontFamily);
-  static const SolarIconsData Slash_Square =
+  static const SolarIconsData slash_Square =
       SolarIconsData(0xebc4, fontFamily: _fontFamily);
-  static const SolarIconsData Station_Minimalistic =
+  static const SolarIconsData station_Minimalistic =
       SolarIconsData(0xebc5, fontFamily: _fontFamily);
-  static const SolarIconsData Station =
+  static const SolarIconsData station =
       SolarIconsData(0xebc6, fontFamily: _fontFamily);
-  static const SolarIconsData Structure =
+  static const SolarIconsData structure =
       SolarIconsData(0xebc7, fontFamily: _fontFamily);
-  static const SolarIconsData Translation =
+  static const SolarIconsData translation =
       SolarIconsData(0xebc8, fontFamily: _fontFamily);
-  static const SolarIconsData Sidebar_Code =
+  static const SolarIconsData sidebar_Code =
       SolarIconsData(0xebc9, fontFamily: _fontFamily);
-  static const SolarIconsData Sidebar_Minimalistic =
+  static const SolarIconsData sidebar_Minimalistic =
       SolarIconsData(0xebca, fontFamily: _fontFamily);
-  static const SolarIconsData Siderbar =
+  static const SolarIconsData sidebar =
       SolarIconsData(0xebcb, fontFamily: _fontFamily);
-  static const SolarIconsData Translation_2 =
+  static const SolarIconsData translation_2 =
       SolarIconsData(0xebcc, fontFamily: _fontFamily);
-  static const SolarIconsData USB_Circle =
+  static const SolarIconsData usb_Circle =
       SolarIconsData(0xebcd, fontFamily: _fontFamily);
-  static const SolarIconsData USB_Square =
+  static const SolarIconsData usb_Square =
       SolarIconsData(0xebce, fontFamily: _fontFamily);
-  static const SolarIconsData USB =
+  static const SolarIconsData usb =
       SolarIconsData(0xebcf, fontFamily: _fontFamily);
-  static const SolarIconsData Wi_Fi_Router_Minimalistic =
+  static const SolarIconsData wifi_router_Minimalistic =
       SolarIconsData(0xebd0, fontFamily: _fontFamily);
-  static const SolarIconsData Wi_Fi_Router_Round =
+  static const SolarIconsData wifi_router_Round =
       SolarIconsData(0xebd1, fontFamily: _fontFamily);
-  static const SolarIconsData Wi_Fi_Router =
+  static const SolarIconsData wifi_router =
       SolarIconsData(0xebd2, fontFamily: _fontFamily);
-  static const SolarIconsData Window_Frame =
+  static const SolarIconsData windowFrame =
       SolarIconsData(0xebd3, fontFamily: _fontFamily);
-  static const SolarIconsData Tuning_2 =
+  static const SolarIconsData tuning_2 =
       SolarIconsData(0xebd4, fontFamily: _fontFamily);
-  static const SolarIconsData Tuning_3 =
+  static const SolarIconsData tuning_3 =
       SolarIconsData(0xebd5, fontFamily: _fontFamily);
-  static const SolarIconsData Tuning_4 =
+  static const SolarIconsData tuning_4 =
       SolarIconsData(0xebd6, fontFamily: _fontFamily);
-  static const SolarIconsData Tuning_Square_2 =
+  static const SolarIconsData tuning_Square_2 =
       SolarIconsData(0xebd7, fontFamily: _fontFamily);
-  static const SolarIconsData Tuning_Square =
+  static const SolarIconsData tuning_Square =
       SolarIconsData(0xebd8, fontFamily: _fontFamily);
-  static const SolarIconsData Tuning =
+  static const SolarIconsData tuning =
       SolarIconsData(0xebd9, fontFamily: _fontFamily);
-  static const SolarIconsData Widget_6 =
+  static const SolarIconsData widget_6 =
       SolarIconsData(0xebda, fontFamily: _fontFamily);
-  static const SolarIconsData Widget_Add =
+  static const SolarIconsData widget_Add =
       SolarIconsData(0xebdb, fontFamily: _fontFamily);
-  static const SolarIconsData Settings_Minimalistic =
+  static const SolarIconsData settings_Minimalistic =
       SolarIconsData(0xebdc, fontFamily: _fontFamily);
-  static const SolarIconsData Settings =
+  static const SolarIconsData settings =
       SolarIconsData(0xebdd, fontFamily: _fontFamily);
-  static const SolarIconsData Widget_2 =
+  static const SolarIconsData widget_2 =
       SolarIconsData(0xebde, fontFamily: _fontFamily);
-  static const SolarIconsData Widget_3 =
+  static const SolarIconsData widget_3 =
       SolarIconsData(0xebdf, fontFamily: _fontFamily);
-  static const SolarIconsData Widget_4 =
+  static const SolarIconsData widget_4 =
       SolarIconsData(0xebe0, fontFamily: _fontFamily);
-  static const SolarIconsData Widget_5 =
+  static const SolarIconsData widget_5 =
       SolarIconsData(0xebe1, fontFamily: _fontFamily);
-  static const SolarIconsData Widget =
+  static const SolarIconsData widget =
       SolarIconsData(0xebe2, fontFamily: _fontFamily);
-  static const SolarIconsData Backspace =
+  static const SolarIconsData backspace =
       SolarIconsData(0xebe3, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Broken_Minimalistic =
+  static const SolarIconsData link_Broken_Minimalistic =
       SolarIconsData(0xebe4, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Broken =
+  static const SolarIconsData link_Broken =
       SolarIconsData(0xebe5, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Circle =
+  static const SolarIconsData link_Circle =
       SolarIconsData(0xebe6, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Minimalistic_2 =
+  static const SolarIconsData link_Minimalistic_2 =
       SolarIconsData(0xebe7, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Minimalistic =
+  static const SolarIconsData link_Minimalistic =
       SolarIconsData(0xebe8, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Round_Angle =
+  static const SolarIconsData link_Round_Angle =
       SolarIconsData(0xebe9, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Round =
+  static const SolarIconsData link_Round =
       SolarIconsData(0xebea, fontFamily: _fontFamily);
-  static const SolarIconsData Link_Square =
+  static const SolarIconsData link_Square =
       SolarIconsData(0xebeb, fontFamily: _fontFamily);
-  static const SolarIconsData Link =
+  static const SolarIconsData link =
       SolarIconsData(0xebec, fontFamily: _fontFamily);
-  static const SolarIconsData Paragraph_Spacing =
+  static const SolarIconsData paragraphSpacing =
       SolarIconsData(0xebed, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Bold_Square =
+  static const SolarIconsData text_Bold_Square =
       SolarIconsData(0xebee, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Field_Focus =
+  static const SolarIconsData text_Field_Focus =
       SolarIconsData(0xebef, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Field =
+  static const SolarIconsData text_Field =
       SolarIconsData(0xebf0, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Selection =
+  static const SolarIconsData text_Selection =
       SolarIconsData(0xebf1, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Square_2 =
+  static const SolarIconsData text_Square_2 =
       SolarIconsData(0xebf2, fontFamily: _fontFamily);
-  static const SolarIconsData Eraser_Circle =
+  static const SolarIconsData eraser_Circle =
       SolarIconsData(0xebf3, fontFamily: _fontFamily);
-  static const SolarIconsData Eraser_Square =
+  static const SolarIconsData eraser_Square =
       SolarIconsData(0xebf4, fontFamily: _fontFamily);
-  static const SolarIconsData Eraser =
+  static const SolarIconsData eraser =
       SolarIconsData(0xebf5, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Bold_Circle =
+  static const SolarIconsData text_Bold_Circle =
       SolarIconsData(0xebf6, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Bold =
+  static const SolarIconsData text_Bold =
       SolarIconsData(0xebf7, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Circle =
+  static const SolarIconsData text_Circle =
       SolarIconsData(0xebf8, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Cross_Circle =
+  static const SolarIconsData text_Cross_Circle =
       SolarIconsData(0xebf9, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Cross_Square =
+  static const SolarIconsData text_Cross_Square =
       SolarIconsData(0xebfa, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Cross =
+  static const SolarIconsData text_Cross =
       SolarIconsData(0xebfb, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Italic_Circle =
+  static const SolarIconsData text_Italic_Circle =
       SolarIconsData(0xebfc, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Italic_Square =
+  static const SolarIconsData text_Italic_Square =
       SolarIconsData(0xebfd, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Italic =
+  static const SolarIconsData text_Italic =
       SolarIconsData(0xebfe, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Square =
+  static const SolarIconsData text_Square =
       SolarIconsData(0xebff, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Underline_Circle =
+  static const SolarIconsData text_Underline_Circle =
       SolarIconsData(0xec00, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Underline_Cross =
+  static const SolarIconsData text_Underline_Cross =
       SolarIconsData(0xec01, fontFamily: _fontFamily);
-  static const SolarIconsData Text_Underline =
+  static const SolarIconsData text_Underline =
       SolarIconsData(0xec02, fontFamily: _fontFamily);
-  static const SolarIconsData Text =
+  static const SolarIconsData text =
       SolarIconsData(0xec03, fontFamily: _fontFamily);
-  static const SolarIconsData Chart_2 =
+  static const SolarIconsData chart_2 =
       SolarIconsData(0xec04, fontFamily: _fontFamily);
-  static const SolarIconsData Chart_Square =
+  static const SolarIconsData chart_Square =
       SolarIconsData(0xec05, fontFamily: _fontFamily);
-  static const SolarIconsData Chart =
+  static const SolarIconsData chart =
       SolarIconsData(0xec06, fontFamily: _fontFamily);
-  static const SolarIconsData Chat_Square_2 =
+  static const SolarIconsData chatSquare_2 =
       SolarIconsData(0xec07, fontFamily: _fontFamily);
-  static const SolarIconsData Course_Down =
+  static const SolarIconsData course_Down =
       SolarIconsData(0xec08, fontFamily: _fontFamily);
-  static const SolarIconsData Course_Up =
+  static const SolarIconsData course_Up =
       SolarIconsData(0xec09, fontFamily: _fontFamily);
-  static const SolarIconsData Diagram_Down =
+  static const SolarIconsData diagram_Down =
       SolarIconsData(0xec0a, fontFamily: _fontFamily);
-  static const SolarIconsData Diagram_Up =
+  static const SolarIconsData diagram_Up =
       SolarIconsData(0xec0b, fontFamily: _fontFamily);
-  static const SolarIconsData Graph_Down_New =
+  static const SolarIconsData graph_Down_New =
       SolarIconsData(0xec0c, fontFamily: _fontFamily);
-  static const SolarIconsData Graph_Down =
+  static const SolarIconsData graph_Down =
       SolarIconsData(0xec0d, fontFamily: _fontFamily);
-  static const SolarIconsData Graph_New_Up =
+  static const SolarIconsData graph_New_Up =
       SolarIconsData(0xec0e, fontFamily: _fontFamily);
-  static const SolarIconsData Graph_New =
+  static const SolarIconsData graph_New =
       SolarIconsData(0xec0f, fontFamily: _fontFamily);
-  static const SolarIconsData Graph_Up =
+  static const SolarIconsData graph_Up =
       SolarIconsData(0xec10, fontFamily: _fontFamily);
-  static const SolarIconsData Graph =
+  static const SolarIconsData graph =
       SolarIconsData(0xec11, fontFamily: _fontFamily);
-  static const SolarIconsData Pie_Chart_2 =
+  static const SolarIconsData pie_Chart_2 =
       SolarIconsData(0xec12, fontFamily: _fontFamily);
-  static const SolarIconsData Pie_Chart_3 =
+  static const SolarIconsData pie_Chart_3 =
       SolarIconsData(0xec13, fontFamily: _fontFamily);
-  static const SolarIconsData Pie_Chart =
+  static const SolarIconsData pie_Chart =
       SolarIconsData(0xec14, fontFamily: _fontFamily);
-  static const SolarIconsData Presentation_Graph =
+  static const SolarIconsData presentationGraph =
       SolarIconsData(0xec15, fontFamily: _fontFamily);
-  static const SolarIconsData Round_Graph =
+  static const SolarIconsData roundGraph =
       SolarIconsData(0xec16, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_5 =
+  static const SolarIconsData bag_5 =
       SolarIconsData(0xec17, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_Heart =
+  static const SolarIconsData bag_Heart =
       SolarIconsData(0xec18, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_Music_2 =
+  static const SolarIconsData bag_Music_2 =
       SolarIconsData(0xec19, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_Smile =
+  static const SolarIconsData bag_Smile =
       SolarIconsData(0xec1a, fontFamily: _fontFamily);
-  static const SolarIconsData Shop_2 =
+  static const SolarIconsData shop_2 =
       SolarIconsData(0xec1b, fontFamily: _fontFamily);
-  static const SolarIconsData Shop_Minimalistic =
+  static const SolarIconsData shop_Minimalistic =
       SolarIconsData(0xec1c, fontFamily: _fontFamily);
-  static const SolarIconsData Shop =
+  static const SolarIconsData shop =
       SolarIconsData(0xec1d, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_2 =
+  static const SolarIconsData bag_2 =
       SolarIconsData(0xec1e, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_3 =
+  static const SolarIconsData bag_3 =
       SolarIconsData(0xec1f, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_4 =
+  static const SolarIconsData bag_4 =
       SolarIconsData(0xec20, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_Check =
+  static const SolarIconsData bag_Check =
       SolarIconsData(0xec21, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_Cross =
+  static const SolarIconsData bag_Cross =
       SolarIconsData(0xec22, fontFamily: _fontFamily);
-  static const SolarIconsData Bag_Music =
+  static const SolarIconsData bag_Music =
       SolarIconsData(0xec23, fontFamily: _fontFamily);
-  static const SolarIconsData Bag =
+  static const SolarIconsData bag =
       SolarIconsData(0xec24, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_2 =
+  static const SolarIconsData cart_2 =
       SolarIconsData(0xec25, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_3 =
+  static const SolarIconsData cart_3 =
       SolarIconsData(0xec26, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_4 =
+  static const SolarIconsData cart_4 =
       SolarIconsData(0xec27, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_5 =
+  static const SolarIconsData cart_5 =
       SolarIconsData(0xec28, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Check =
+  static const SolarIconsData cart_Check =
       SolarIconsData(0xec29, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Cross =
+  static const SolarIconsData cart_Cross =
       SolarIconsData(0xec2a, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Large_2 =
+  static const SolarIconsData cart_Large_2 =
       SolarIconsData(0xec2b, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Large_3 =
+  static const SolarIconsData cart_Large_3 =
       SolarIconsData(0xec2c, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Large_4 =
+  static const SolarIconsData cart_Large_4 =
       SolarIconsData(0xec2d, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Large_Minimalistic =
+  static const SolarIconsData cart_Large_Minimalistic =
       SolarIconsData(0xec2e, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Large =
+  static const SolarIconsData cart_Large =
       SolarIconsData(0xec2f, fontFamily: _fontFamily);
-  static const SolarIconsData Cart_Plus =
+  static const SolarIconsData cart_Plus =
       SolarIconsData(0xec30, fontFamily: _fontFamily);
-  static const SolarIconsData Cart =
+  static const SolarIconsData cart =
       SolarIconsData(0xec31, fontFamily: _fontFamily);
-  static const SolarIconsData Bonfire =
+  static const SolarIconsData bonfire =
       SolarIconsData(0xec32, fontFamily: _fontFamily);
-  static const SolarIconsData Fire_Minimalistic =
+  static const SolarIconsData fire_Minimalistic =
       SolarIconsData(0xec33, fontFamily: _fontFamily);
-  static const SolarIconsData Fire_Square =
+  static const SolarIconsData fire_Square =
       SolarIconsData(0xec34, fontFamily: _fontFamily);
-  static const SolarIconsData Fire =
+  static const SolarIconsData fire =
       SolarIconsData(0xec35, fontFamily: _fontFamily);
-  static const SolarIconsData Flame =
+  static const SolarIconsData flame =
       SolarIconsData(0xec36, fontFamily: _fontFamily);
-  static const SolarIconsData Leaf =
+  static const SolarIconsData leaf =
       SolarIconsData(0xec37, fontFamily: _fontFamily);
-  static const SolarIconsData Suitcase_Lines =
+  static const SolarIconsData suitcase_Lines =
       SolarIconsData(0xec38, fontFamily: _fontFamily);
-  static const SolarIconsData Suitcase_Tag =
+  static const SolarIconsData suitcase_Tag =
       SolarIconsData(0xec39, fontFamily: _fontFamily);
-  static const SolarIconsData Suitcase =
+  static const SolarIconsData suitcase =
       SolarIconsData(0xec3a, fontFamily: _fontFamily);
-  static const SolarIconsData Backpack =
+  static const SolarIconsData backpack =
       SolarIconsData(0xec3b, fontFamily: _fontFamily);
-  static const SolarIconsData Book_2 =
+  static const SolarIconsData book_2 =
       SolarIconsData(0xec3c, fontFamily: _fontFamily);
-  static const SolarIconsData Book_Bookmark_Minimalistic =
+  static const SolarIconsData book_Bookmark_Minimalistic =
       SolarIconsData(0xec3d, fontFamily: _fontFamily);
-  static const SolarIconsData Book_Bookmark =
+  static const SolarIconsData book_Bookmark =
       SolarIconsData(0xec3e, fontFamily: _fontFamily);
-  static const SolarIconsData Book_Minimalistic =
+  static const SolarIconsData book_Minimalistic =
       SolarIconsData(0xec3f, fontFamily: _fontFamily);
-  static const SolarIconsData Bookmark_Circle =
+  static const SolarIconsData bookmark_Circle =
       SolarIconsData(0xec40, fontFamily: _fontFamily);
-  static const SolarIconsData Bookmark_Opened =
+  static const SolarIconsData bookmark_Opened =
       SolarIconsData(0xec41, fontFamily: _fontFamily);
-  static const SolarIconsData Bookmark_Square_Minimalistic =
+  static const SolarIconsData bookmark_Square_Minimalistic =
       SolarIconsData(0xec42, fontFamily: _fontFamily);
-  static const SolarIconsData Bookmark_Square =
+  static const SolarIconsData bookmark_Square =
       SolarIconsData(0xec43, fontFamily: _fontFamily);
-  static const SolarIconsData Bookmark =
+  static const SolarIconsData bookmark =
       SolarIconsData(0xec44, fontFamily: _fontFamily);
-  static const SolarIconsData Calculator_Minimalistic =
+  static const SolarIconsData calculator_Minimalistic =
       SolarIconsData(0xec45, fontFamily: _fontFamily);
-  static const SolarIconsData Calculator =
+  static const SolarIconsData calculator =
       SolarIconsData(0xec46, fontFamily: _fontFamily);
-  static const SolarIconsData Document =
+  static const SolarIconsData document =
       SolarIconsData(0xec47, fontFamily: _fontFamily);
-  static const SolarIconsData Passport_Minimalistic =
+  static const SolarIconsData passport_Minimalistic =
       SolarIconsData(0xec48, fontFamily: _fontFamily);
-  static const SolarIconsData Passport =
+  static const SolarIconsData passport =
       SolarIconsData(0xec49, fontFamily: _fontFamily);
-  static const SolarIconsData Plus =
+  static const SolarIconsData plus =
       SolarIconsData(0xec4a, fontFamily: _fontFamily);
-  static const SolarIconsData Minus =
+  static const SolarIconsData minus =
       SolarIconsData(0xec4a, fontFamily: _fontFamily);
-  static const SolarIconsData Book =
+  static const SolarIconsData book =
       SolarIconsData(0xec4b, fontFamily: _fontFamily);
-  static const SolarIconsData Case_Minimalistic =
+  static const SolarIconsData case_Minimalistic =
       SolarIconsData(0xec4c, fontFamily: _fontFamily);
-  static const SolarIconsData Case_Round_Minimalistic =
+  static const SolarIconsData case__Round_Minimalistic =
       SolarIconsData(0xec4d, fontFamily: _fontFamily);
-  static const SolarIconsData Case_Round =
+  static const SolarIconsData case__Round =
       SolarIconsData(0xec4e, fontFamily: _fontFamily);
-  static const SolarIconsData Case =
+  static const SolarIconsData case_ =
       SolarIconsData(0xec4f, fontFamily: _fontFamily);
-  static const SolarIconsData Diploma_Verified =
+  static const SolarIconsData diploma_Verified =
       SolarIconsData(0xec50, fontFamily: _fontFamily);
-  static const SolarIconsData Diploma =
+  static const SolarIconsData diploma =
       SolarIconsData(0xec51, fontFamily: _fontFamily);
-  static const SolarIconsData Notebook_Bookmark =
+  static const SolarIconsData notebook_Bookmark =
       SolarIconsData(0xec52, fontFamily: _fontFamily);
-  static const SolarIconsData Notebook_Minimalistic =
+  static const SolarIconsData notebook_Minimalistic =
       SolarIconsData(0xec53, fontFamily: _fontFamily);
-  static const SolarIconsData Notebook_Square =
+  static const SolarIconsData notebook_Square =
       SolarIconsData(0xec54, fontFamily: _fontFamily);
-  static const SolarIconsData Notebook =
+  static const SolarIconsData notebook =
       SolarIconsData(0xec55, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Academic_Cap_2 =
+  static const SolarIconsData squareAcademicCap2 =
       SolarIconsData(0xec56, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Academic_Cap =
+  static const SolarIconsData squareAcademicCap =
       SolarIconsData(0xec57, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Bottom =
+  static const SolarIconsData align_Bottom =
       SolarIconsData(0xec58, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Horizonta_Spacing =
+  static const SolarIconsData align_Horizontal_Spacing =
       SolarIconsData(0xec59, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Horizontal_Center =
+  static const SolarIconsData align_Horizontal_Center =
       SolarIconsData(0xec5a, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Left =
+  static const SolarIconsData align_Left =
       SolarIconsData(0xec5b, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Right =
+  static const SolarIconsData align_Right =
       SolarIconsData(0xec5c, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Top =
+  static const SolarIconsData align_Top =
       SolarIconsData(0xec5d, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Vertical_Center =
+  static const SolarIconsData align_Vertical_Center =
       SolarIconsData(0xec5e, fontFamily: _fontFamily);
-  static const SolarIconsData Align_Vertical_Spacing =
+  static const SolarIconsData align_Vertical_Spacing =
       SolarIconsData(0xec5f, fontFamily: _fontFamily);
-  static const SolarIconsData Crop_Minimalistic =
+  static const SolarIconsData crop_Minimalistic =
       SolarIconsData(0xec60, fontFamily: _fontFamily);
-  static const SolarIconsData Crop =
+  static const SolarIconsData crop =
       SolarIconsData(0xec61, fontFamily: _fontFamily);
-  static const SolarIconsData Layers_Minimalistic =
+  static const SolarIconsData layers_Minimalistic =
       SolarIconsData(0xec62, fontFamily: _fontFamily);
-  static const SolarIconsData Layers =
+  static const SolarIconsData layers =
       SolarIconsData(0xec63, fontFamily: _fontFamily);
-  static const SolarIconsData Paint_Roller =
+  static const SolarIconsData paint_Roller =
       SolarIconsData(0xec64, fontFamily: _fontFamily);
-  static const SolarIconsData Palette_Round =
+  static const SolarIconsData palette_Round =
       SolarIconsData(0xec65, fontFamily: _fontFamily);
-  static const SolarIconsData Palette =
+  static const SolarIconsData palette =
       SolarIconsData(0xec66, fontFamily: _fontFamily);
-  static const SolarIconsData Pallete_2 =
+  static const SolarIconsData palette2 =
       SolarIconsData(0xec67, fontFamily: _fontFamily);
-  static const SolarIconsData Colour_Tuneing =
+  static const SolarIconsData colour_Tuning =
       SolarIconsData(0xec68, fontFamily: _fontFamily);
-  static const SolarIconsData Filters =
+  static const SolarIconsData filters =
       SolarIconsData(0xec69, fontFamily: _fontFamily);
-  static const SolarIconsData Flip_Horizontal =
+  static const SolarIconsData flip_Horizontal =
       SolarIconsData(0xec6a, fontFamily: _fontFamily);
-  static const SolarIconsData Flip_Vertical =
+  static const SolarIconsData flip_Vertical =
       SolarIconsData(0xec6b, fontFamily: _fontFamily);
-  static const SolarIconsData Mirror_Left =
+  static const SolarIconsData mirror_Left =
       SolarIconsData(0xec6c, fontFamily: _fontFamily);
-  static const SolarIconsData Mirror_Right =
+  static const SolarIconsData mirror_Right =
       SolarIconsData(0xec6d, fontFamily: _fontFamily);
-  static const SolarIconsData Pipette =
+  static const SolarIconsData pipette =
       SolarIconsData(0xec6e, fontFamily: _fontFamily);
-  static const SolarIconsData Radial_Blur =
+  static const SolarIconsData radial_Blur =
       SolarIconsData(0xec6f, fontFamily: _fontFamily);
-  static const SolarIconsData Ruler_Angular =
+  static const SolarIconsData ruler_Angular =
       SolarIconsData(0xec70, fontFamily: _fontFamily);
-  static const SolarIconsData Ruler_Cross_Pen =
+  static const SolarIconsData ruler_Cross_Pen =
       SolarIconsData(0xec71, fontFamily: _fontFamily);
-  static const SolarIconsData Ruler_Pen =
+  static const SolarIconsData ruler_Pen =
       SolarIconsData(0xec72, fontFamily: _fontFamily);
-  static const SolarIconsData Ruler =
+  static const SolarIconsData ruler =
       SolarIconsData(0xec73, fontFamily: _fontFamily);
-  static const SolarIconsData Three_Squares =
+  static const SolarIconsData three_Squares =
       SolarIconsData(0xec74, fontFamily: _fontFamily);
-  static const SolarIconsData Dislike =
+  static const SolarIconsData dislike =
       SolarIconsData(0xec75, fontFamily: _fontFamily);
-  static const SolarIconsData Heart_Angle =
+  static const SolarIconsData heart_Angle =
       SolarIconsData(0xec76, fontFamily: _fontFamily);
-  static const SolarIconsData Heart_Broken =
+  static const SolarIconsData heart_Broken =
       SolarIconsData(0xec77, fontFamily: _fontFamily);
-  static const SolarIconsData Heart_Lock =
+  static const SolarIconsData heart_Lock =
       SolarIconsData(0xec78, fontFamily: _fontFamily);
-  static const SolarIconsData Heart_Shine =
+  static const SolarIconsData heart_Shine =
       SolarIconsData(0xec79, fontFamily: _fontFamily);
-  static const SolarIconsData Heart_Unlock =
+  static const SolarIconsData heart_Unlock =
       SolarIconsData(0xec7a, fontFamily: _fontFamily);
-  static const SolarIconsData Heart =
+  static const SolarIconsData heart =
       SolarIconsData(0xec7b, fontFamily: _fontFamily);
-  static const SolarIconsData Hearts =
+  static const SolarIconsData hearts =
       SolarIconsData(0xec7c, fontFamily: _fontFamily);
-  static const SolarIconsData Like =
+  static const SolarIconsData like =
       SolarIconsData(0xec7d, fontFamily: _fontFamily);
-  static const SolarIconsData Medal_Ribbon_Star =
+  static const SolarIconsData medal_Ribbon_Star =
       SolarIconsData(0xec7e, fontFamily: _fontFamily);
-  static const SolarIconsData Medal_Ribbon =
+  static const SolarIconsData medal_Ribbon =
       SolarIconsData(0xec7f, fontFamily: _fontFamily);
-  static const SolarIconsData Medal_Ribbons_Star =
+  static const SolarIconsData medal_Ribbons_Star =
       SolarIconsData(0xec80, fontFamily: _fontFamily);
-  static const SolarIconsData Medal_Star_Circle =
+  static const SolarIconsData medal_Star_Circle =
       SolarIconsData(0xec81, fontFamily: _fontFamily);
-  static const SolarIconsData Medal_Star_Square =
+  static const SolarIconsData medal_Star_Square =
       SolarIconsData(0xec82, fontFamily: _fontFamily);
-  static const SolarIconsData Medal_Star =
+  static const SolarIconsData medal_Star =
       SolarIconsData(0xec83, fontFamily: _fontFamily);
-  static const SolarIconsData Star_Shine =
+  static const SolarIconsData start_Shine =
       SolarIconsData(0xec84, fontFamily: _fontFamily);
-  static const SolarIconsData Star1 =
+  static const SolarIconsData start1 =
       SolarIconsData(0xec85, fontFamily: _fontFamily);
-  static const SolarIconsData Corkscrew =
+  static const SolarIconsData corkscrew =
       SolarIconsData(0xec86, fontFamily: _fontFamily);
-  static const SolarIconsData Ladle =
+  static const SolarIconsData ladle =
       SolarIconsData(0xec87, fontFamily: _fontFamily);
-  static const SolarIconsData Oven_Mitts_Minimalistic =
+  static const SolarIconsData ovenMittsMinimalistic =
       SolarIconsData(0xec88, fontFamily: _fontFamily);
-  static const SolarIconsData Oven_Mitts =
+  static const SolarIconsData oven_Mitts =
       SolarIconsData(0xec89, fontFamily: _fontFamily);
-  static const SolarIconsData Rolling_Pin =
+  static const SolarIconsData rolling_Pin =
       SolarIconsData(0xec8a, fontFamily: _fontFamily);
-  static const SolarIconsData Whisk =
+  static const SolarIconsData whisk =
       SolarIconsData(0xec8b, fontFamily: _fontFamily);
-  static const SolarIconsData Bottle =
+  static const SolarIconsData bottle =
       SolarIconsData(0xec8c, fontFamily: _fontFamily);
-  static const SolarIconsData Chef_Hat_Heart =
+  static const SolarIconsData chef_Hat_Heart =
       SolarIconsData(0xec8d, fontFamily: _fontFamily);
-  static const SolarIconsData Chef_Hat_Minimalistic =
+  static const SolarIconsData chef_Hat_Minimalistic =
       SolarIconsData(0xec8e, fontFamily: _fontFamily);
-  static const SolarIconsData Chef_Hat =
+  static const SolarIconsData chef_Hat =
       SolarIconsData(0xec8f, fontFamily: _fontFamily);
-  static const SolarIconsData Cup_Hot =
+  static const SolarIconsData cup_Hot =
       SolarIconsData(0xec90, fontFamily: _fontFamily);
-  static const SolarIconsData Cup_Paper =
+  static const SolarIconsData cup_Paper =
       SolarIconsData(0xec91, fontFamily: _fontFamily);
-  static const SolarIconsData Cup =
+  static const SolarIconsData cup =
       SolarIconsData(0xec92, fontFamily: _fontFamily);
-  static const SolarIconsData Donut_Bitten =
+  static const SolarIconsData donut_Bitten =
       SolarIconsData(0xec93, fontFamily: _fontFamily);
-  static const SolarIconsData Donut =
+  static const SolarIconsData donut =
       SolarIconsData(0xec94, fontFamily: _fontFamily);
-  static const SolarIconsData Tea_Cup =
+  static const SolarIconsData tea_Cup =
       SolarIconsData(0xec95, fontFamily: _fontFamily);
-  static const SolarIconsData Wineglass_Triangle =
+  static const SolarIconsData wineglass_Triangle =
       SolarIconsData(0xec96, fontFamily: _fontFamily);
-  static const SolarIconsData Wineglass =
+  static const SolarIconsData wineglass =
       SolarIconsData(0xec97, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_To_Down_Left =
+  static const SolarIconsData arrowToDownLeft =
       SolarIconsData(0xec98, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_To_Down_Right =
+  static const SolarIconsData arrowToDownRight =
       SolarIconsData(0xec99, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_To_Top_Left =
+  static const SolarIconsData arrowToTopLeft =
       SolarIconsData(0xec9a, fontFamily: _fontFamily);
-  static const SolarIconsData Arrow_To_Top_Right =
+  static const SolarIconsData arrowToTopRight =
       SolarIconsData(0xec9b, fontFamily: _fontFamily);
-  static const SolarIconsData Download_Minimalistic =
+  static const SolarIconsData download_Minimalistic =
       SolarIconsData(0xec9c, fontFamily: _fontFamily);
-  static const SolarIconsData Download =
+  static const SolarIconsData download =
       SolarIconsData(0xec9d, fontFamily: _fontFamily);
-  static const SolarIconsData Exit =
+  static const SolarIconsData exit =
       SolarIconsData(0xec9e, fontFamily: _fontFamily);
-  static const SolarIconsData Export =
+  static const SolarIconsData export =
       SolarIconsData(0xec9f, fontFamily: _fontFamily);
-  static const SolarIconsData Forward_2 =
+  static const SolarIconsData forward_2 =
       SolarIconsData(0xeca0, fontFamily: _fontFamily);
-  static const SolarIconsData Forward1 =
+  static const SolarIconsData forward1 =
       SolarIconsData(0xeca1, fontFamily: _fontFamily);
-  static const SolarIconsData Import =
+  static const SolarIconsData import =
       SolarIconsData(0xeca2, fontFamily: _fontFamily);
-  static const SolarIconsData Login_2 =
+  static const SolarIconsData login_2 =
       SolarIconsData(0xeca3, fontFamily: _fontFamily);
-  static const SolarIconsData Login_3 =
+  static const SolarIconsData login_3 =
       SolarIconsData(0xeca4, fontFamily: _fontFamily);
-  static const SolarIconsData Login =
+  static const SolarIconsData login =
       SolarIconsData(0xeca5, fontFamily: _fontFamily);
-  static const SolarIconsData Logout_2 =
+  static const SolarIconsData logout_2 =
       SolarIconsData(0xeca6, fontFamily: _fontFamily);
-  static const SolarIconsData Logout_3 =
+  static const SolarIconsData logout_3 =
       SolarIconsData(0xeca7, fontFamily: _fontFamily);
-  static const SolarIconsData Logout =
+  static const SolarIconsData logout =
       SolarIconsData(0xeca8, fontFamily: _fontFamily);
-  static const SolarIconsData Maximize_Square_2 =
+  static const SolarIconsData maximize_Square_2 =
       SolarIconsData(0xeca9, fontFamily: _fontFamily);
-  static const SolarIconsData Minimize_Square_2 =
+  static const SolarIconsData minimize_Square_2 =
       SolarIconsData(0xecaa, fontFamily: _fontFamily);
-  static const SolarIconsData Minimize_Square_Minimalistic =
+  static const SolarIconsData minimize_Square_Minimalistic =
       SolarIconsData(0xecab, fontFamily: _fontFamily);
-  static const SolarIconsData Reply_2 =
+  static const SolarIconsData reply_2 =
       SolarIconsData(0xecac, fontFamily: _fontFamily);
-  static const SolarIconsData Reply =
+  static const SolarIconsData reply =
       SolarIconsData(0xecad, fontFamily: _fontFamily);
-  static const SolarIconsData Screen_Share =
+  static const SolarIconsData screen_Share =
       SolarIconsData(0xecae, fontFamily: _fontFamily);
-  static const SolarIconsData Upload_Minimalistic =
+  static const SolarIconsData upload_Minimalistic =
       SolarIconsData(0xecaf, fontFamily: _fontFamily);
-  static const SolarIconsData Upload =
+  static const SolarIconsData upload =
       SolarIconsData(0xecb0, fontFamily: _fontFamily);
-  static const SolarIconsData Circle_Bottom_Down =
+  static const SolarIconsData circle_Bottom_Down =
       SolarIconsData(0xecb1, fontFamily: _fontFamily);
-  static const SolarIconsData Circle_Bottom_Up =
+  static const SolarIconsData circle_Bottom_Up =
       SolarIconsData(0xecb2, fontFamily: _fontFamily);
-  static const SolarIconsData Circle_Top_Down =
+  static const SolarIconsData circle_Top_Down =
       SolarIconsData(0xecb3, fontFamily: _fontFamily);
-  static const SolarIconsData Circle_Top_Up =
+  static const SolarIconsData circle_Top_Up =
       SolarIconsData(0xecb4, fontFamily: _fontFamily);
-  static const SolarIconsData Download_Square =
+  static const SolarIconsData download_Square =
       SolarIconsData(0xecb5, fontFamily: _fontFamily);
-  static const SolarIconsData Maximize_Square_3 =
+  static const SolarIconsData maximize_Square_3 =
       SolarIconsData(0xecb6, fontFamily: _fontFamily);
-  static const SolarIconsData Maximize_Square_Minimalistic =
+  static const SolarIconsData maximize_Square_Minimalistic =
       SolarIconsData(0xecb7, fontFamily: _fontFamily);
-  static const SolarIconsData Maximize_Square =
+  static const SolarIconsData maximize_Square =
       SolarIconsData(0xecb8, fontFamily: _fontFamily);
-  static const SolarIconsData Maximize =
+  static const SolarIconsData maximize =
       SolarIconsData(0xecb9, fontFamily: _fontFamily);
-  static const SolarIconsData Minimize_Square_3 =
+  static const SolarIconsData minimize_Square_3 =
       SolarIconsData(0xecba, fontFamily: _fontFamily);
-  static const SolarIconsData Minimize_Square =
+  static const SolarIconsData minimize_Square =
       SolarIconsData(0xecbb, fontFamily: _fontFamily);
-  static const SolarIconsData Minimize =
+  static const SolarIconsData minimize =
       SolarIconsData(0xecbc, fontFamily: _fontFamily);
-  static const SolarIconsData Recive_Square =
+  static const SolarIconsData receive_Square =
       SolarIconsData(0xecbd, fontFamily: _fontFamily);
-  static const SolarIconsData Reorder =
+  static const SolarIconsData reorder =
       SolarIconsData(0xecbe, fontFamily: _fontFamily);
-  static const SolarIconsData Scale =
+  static const SolarIconsData scale =
       SolarIconsData(0xecbf, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Bottom_Down =
+  static const SolarIconsData square_Bottom_Down =
       SolarIconsData(0xecc0, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Bottom_Up =
+  static const SolarIconsData square_Bottom_Up =
       SolarIconsData(0xecc1, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Top_Down =
+  static const SolarIconsData square_Top_Down =
       SolarIconsData(0xecc2, fontFamily: _fontFamily);
-  static const SolarIconsData Square_Top_Up =
+  static const SolarIconsData square_Top_Up =
       SolarIconsData(0xecc3, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Left_Round_Square =
+  static const SolarIconsData undo_Left_Round_Square =
       SolarIconsData(0xecc4, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Left_Round =
+  static const SolarIconsData undo_Left_Round =
       SolarIconsData(0xecc5, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Left_Square =
+  static const SolarIconsData undo_Left_Square =
       SolarIconsData(0xecc6, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Left =
+  static const SolarIconsData undo_Left =
       SolarIconsData(0xecc7, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Right_Round_Square =
+  static const SolarIconsData undo_Right_Round_Square =
       SolarIconsData(0xecc8, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Right_Round =
+  static const SolarIconsData undo_Right_Round =
       SolarIconsData(0xecc9, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Right_Square =
+  static const SolarIconsData undo_Right_Square =
       SolarIconsData(0xecca, fontFamily: _fontFamily);
-  static const SolarIconsData Undo_Right =
+  static const SolarIconsData undo_Right =
       SolarIconsData(0xeccb, fontFamily: _fontFamily);
-  static const SolarIconsData Upload_Square =
+  static const SolarIconsData upload_Square =
       SolarIconsData(0xeccc, fontFamily: _fontFamily);
-  static const SolarIconsData Download_Twice_Square =
+  static const SolarIconsData download_Twice_Square =
       SolarIconsData(0xeccd, fontFamily: _fontFamily);
-  static const SolarIconsData Recive_Twice_Square =
+  static const SolarIconsData receive_Twice_Square =
       SolarIconsData(0xecce, fontFamily: _fontFamily);
-  static const SolarIconsData Send_Square =
+  static const SolarIconsData send_Square =
       SolarIconsData(0xeccf, fontFamily: _fontFamily);
-  static const SolarIconsData Send_Twice_Square =
+  static const SolarIconsData send_Twice_Square =
       SolarIconsData(0xecd0, fontFamily: _fontFamily);
-  static const SolarIconsData Upload_Twice_Square =
+  static const SolarIconsData upload_Twice_Square =
       SolarIconsData(0xecd1, fontFamily: _fontFamily);
-  static const SolarIconsData Bell_Bing =
+  static const SolarIconsData bell_Bing =
       SolarIconsData(0xecd2, fontFamily: _fontFamily);
-  static const SolarIconsData Bell_Off =
+  static const SolarIconsData bell_Off =
       SolarIconsData(0xecd3, fontFamily: _fontFamily);
-  static const SolarIconsData Bell =
+  static const SolarIconsData bell =
       SolarIconsData(0xecd4, fontFamily: _fontFamily);
-  static const SolarIconsData Notification_Lines_Remove =
+  static const SolarIconsData notification_Lines_Remove =
       SolarIconsData(0xecd5, fontFamily: _fontFamily);
-  static const SolarIconsData Notification_Remove =
+  static const SolarIconsData notification_Remove =
       SolarIconsData(0xecd6, fontFamily: _fontFamily);
-  static const SolarIconsData Notification_Unread_Lines =
+  static const SolarIconsData notification_unread_Lines =
       SolarIconsData(0xecd7, fontFamily: _fontFamily);
-  static const SolarIconsData Notification_Unread =
+  static const SolarIconsData notification_unread =
       SolarIconsData(0xecd8, fontFamily: _fontFamily);
-  static const SolarIconsData Archive_Check =
+  static const SolarIconsData archive_Check =
       SolarIconsData(0xecd9, fontFamily: _fontFamily);
-  static const SolarIconsData Archive_Down_Minimlistic =
+  static const SolarIconsData archive_Down_Minimlistic =
       SolarIconsData(0xecda, fontFamily: _fontFamily);
-  static const SolarIconsData Archive_Down =
+  static const SolarIconsData archive_Down =
       SolarIconsData(0xecdb, fontFamily: _fontFamily);
-  static const SolarIconsData Archive_Minimalistic =
+  static const SolarIconsData archive_Minimalistic =
       SolarIconsData(0xecdc, fontFamily: _fontFamily);
-  static const SolarIconsData Archive_Up_Minimlistic =
+  static const SolarIconsData archive_Up_Minimlistic =
       SolarIconsData(0xecdd, fontFamily: _fontFamily);
-  static const SolarIconsData Archive_Up =
+  static const SolarIconsData archive_Up =
       SolarIconsData(0xecde, fontFamily: _fontFamily);
-  static const SolarIconsData Archive =
+  static const SolarIconsData archive =
       SolarIconsData(0xecdf, fontFamily: _fontFamily);
-  static const SolarIconsData Clipboard_Add =
+  static const SolarIconsData clipboard_Add =
       SolarIconsData(0xece0, fontFamily: _fontFamily);
-  static const SolarIconsData Clipboard_Check =
+  static const SolarIconsData clipboard_Check =
       SolarIconsData(0xece1, fontFamily: _fontFamily);
-  static const SolarIconsData Clipboard_Heart =
+  static const SolarIconsData clipboard_Heart =
       SolarIconsData(0xece2, fontFamily: _fontFamily);
-  static const SolarIconsData Clipboard_List =
+  static const SolarIconsData clipboard_List =
       SolarIconsData(0xece3, fontFamily: _fontFamily);
-  static const SolarIconsData Clipboard_Remove =
+  static const SolarIconsData clipboard_Remove =
       SolarIconsData(0xece4, fontFamily: _fontFamily);
-  static const SolarIconsData Clipboard_Text =
+  static const SolarIconsData clipboard_Text =
       SolarIconsData(0xece5, fontFamily: _fontFamily);
-  static const SolarIconsData Clipboard =
+  static const SolarIconsData clipboard =
       SolarIconsData(0xece6, fontFamily: _fontFamily);
-  static const SolarIconsData Documents_Minimalistic =
+  static const SolarIconsData documents_Minimalistic =
       SolarIconsData(0xece7, fontFamily: _fontFamily);
-  static const SolarIconsData Notebook1 =
+  static const SolarIconsData notebook1 =
       SolarIconsData(0xece8, fontFamily: _fontFamily);
-  static const SolarIconsData Notes_Minimalistic =
+  static const SolarIconsData notes_Minimalistic =
       SolarIconsData(0xece9, fontFamily: _fontFamily);
-  static const SolarIconsData Notes =
+  static const SolarIconsData notes =
       SolarIconsData(0xecea, fontFamily: _fontFamily);
-  static const SolarIconsData Document_Add =
+  static const SolarIconsData document_Add =
       SolarIconsData(0xeceb, fontFamily: _fontFamily);
-  static const SolarIconsData Document_Medicine =
+  static const SolarIconsData document_Medicine =
       SolarIconsData(0xecec, fontFamily: _fontFamily);
-  static const SolarIconsData Document_Text =
+  static const SolarIconsData document_Text =
       SolarIconsData(0xeced, fontFamily: _fontFamily);
-  static const SolarIconsData Document1 =
+  static const SolarIconsData document1 =
       SolarIconsData(0xecee, fontFamily: _fontFamily);
-  static const SolarIconsData Documents =
+  static const SolarIconsData documents =
       SolarIconsData(0xecef, fontFamily: _fontFamily);
-  static const SolarIconsData Code_Scan =
+  static const SolarIconsData code_Scan =
       SolarIconsData(0xecf0, fontFamily: _fontFamily);
-  static const SolarIconsData Eye_Scan =
+  static const SolarIconsData eye_Scan =
       SolarIconsData(0xecf1, fontFamily: _fontFamily);
-  static const SolarIconsData Object_Scan =
+  static const SolarIconsData object_Scan =
       SolarIconsData(0xecf2, fontFamily: _fontFamily);
-  static const SolarIconsData QR_Code =
+  static const SolarIconsData qr_Code =
       SolarIconsData(0xecf3, fontFamily: _fontFamily);
-  static const SolarIconsData Scanner_2 =
+  static const SolarIconsData scanner_2 =
       SolarIconsData(0xecf4, fontFamily: _fontFamily);
-  static const SolarIconsData Scanner =
+  static const SolarIconsData scanner =
       SolarIconsData(0xecf5, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Check =
+  static const SolarIconsData shield_Check =
       SolarIconsData(0xecf6, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Cross =
+  static const SolarIconsData shield_Cross =
       SolarIconsData(0xecf7, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Keyhole_Minimalistic =
+  static const SolarIconsData shield_Keyhole_Minimalistic =
       SolarIconsData(0xecf8, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Keyhole =
+  static const SolarIconsData shield_Keyhole =
       SolarIconsData(0xecf9, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Minus =
+  static const SolarIconsData shield_Minus =
       SolarIconsData(0xecfa, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Network =
+  static const SolarIconsData shield_Network =
       SolarIconsData(0xecfb, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Plus =
+  static const SolarIconsData shield_Plus =
       SolarIconsData(0xecfc, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Star =
+  static const SolarIconsData shield_Star =
       SolarIconsData(0xecfd, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Up =
+  static const SolarIconsData shield_Up =
       SolarIconsData(0xecfe, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_User =
+  static const SolarIconsData shield_User =
       SolarIconsData(0xecff, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Warning =
+  static const SolarIconsData shield_Warning =
       SolarIconsData(0xed00, fontFamily: _fontFamily);
-  static const SolarIconsData Bomb_Emoji =
+  static const SolarIconsData bomb_Emoji =
       SolarIconsData(0xed01, fontFamily: _fontFamily);
-  static const SolarIconsData Bomb_Minimalistic =
+  static const SolarIconsData bomb_Minimalistic =
       SolarIconsData(0xed02, fontFamily: _fontFamily);
-  static const SolarIconsData Bomb =
+  static const SolarIconsData bomb =
       SolarIconsData(0xed03, fontFamily: _fontFamily);
-  static const SolarIconsData Eye_Closed =
+  static const SolarIconsData eye_Closed =
       SolarIconsData(0xed04, fontFamily: _fontFamily);
-  static const SolarIconsData Eye =
+  static const SolarIconsData eye =
       SolarIconsData(0xed05, fontFamily: _fontFamily);
-  static const SolarIconsData Incognito =
+  static const SolarIconsData incognito =
       SolarIconsData(0xed06, fontFamily: _fontFamily);
-  static const SolarIconsData Key_Minimalistic_2 =
+  static const SolarIconsData key_Minimalistic_2 =
       SolarIconsData(0xed07, fontFamily: _fontFamily);
-  static const SolarIconsData Key_Minimalistic_Square_2 =
+  static const SolarIconsData key_Minimalistic_Square_2 =
       SolarIconsData(0xed08, fontFamily: _fontFamily);
-  static const SolarIconsData Key_Minimalistic_Square_3 =
+  static const SolarIconsData key_Minimalistic_Square_3 =
       SolarIconsData(0xed09, fontFamily: _fontFamily);
-  static const SolarIconsData Key_Minimalistic_Square =
+  static const SolarIconsData key_Minimalistic_Square =
       SolarIconsData(0xed0a, fontFamily: _fontFamily);
-  static const SolarIconsData Key_Minimalistic =
+  static const SolarIconsData key_Minimalistic =
       SolarIconsData(0xed0b, fontFamily: _fontFamily);
-  static const SolarIconsData Key_Square_2 =
+  static const SolarIconsData key_Square_2 =
       SolarIconsData(0xed0c, fontFamily: _fontFamily);
-  static const SolarIconsData Key_Square =
+  static const SolarIconsData key_Square =
       SolarIconsData(0xed0d, fontFamily: _fontFamily);
-  static const SolarIconsData Key =
+  static const SolarIconsData key =
       SolarIconsData(0xed0e, fontFamily: _fontFamily);
-  static const SolarIconsData Lock_Keyhole_Minimalistic_Unlocked =
+  static const SolarIconsData lock_Keyhole_Minimalistic_Unlocked =
       SolarIconsData(0xed0f, fontFamily: _fontFamily);
-  static const SolarIconsData Lock_Keyhole_Minimalistic =
+  static const SolarIconsData lock_Keyhole_Minimalistic =
       SolarIconsData(0xed10, fontFamily: _fontFamily);
-  static const SolarIconsData Lock_Keyhole_Unlocked =
+  static const SolarIconsData lock_Keyhole_Unlocked =
       SolarIconsData(0xed11, fontFamily: _fontFamily);
-  static const SolarIconsData Lock_Keyhole =
+  static const SolarIconsData lock_Keyhole =
       SolarIconsData(0xed12, fontFamily: _fontFamily);
-  static const SolarIconsData Lock_Password_Unlocked =
+  static const SolarIconsData lock_Password_Unlocked =
       SolarIconsData(0xed13, fontFamily: _fontFamily);
-  static const SolarIconsData Lock_Password =
+  static const SolarIconsData lock_Password =
       SolarIconsData(0xed14, fontFamily: _fontFamily);
-  static const SolarIconsData Lock_Unlocked =
+  static const SolarIconsData lock_Unlocked =
       SolarIconsData(0xed15, fontFamily: _fontFamily);
-  static const SolarIconsData Lock =
+  static const SolarIconsData lock =
       SolarIconsData(0xed16, fontFamily: _fontFamily);
-  static const SolarIconsData Password_Minimalistic_Input =
+  static const SolarIconsData password_Minimalistic_Input =
       SolarIconsData(0xed17, fontFamily: _fontFamily);
-  static const SolarIconsData Password_Minimalistic =
+  static const SolarIconsData password_Minimalistic =
       SolarIconsData(0xed18, fontFamily: _fontFamily);
-  static const SolarIconsData Password =
+  static const SolarIconsData password =
       SolarIconsData(0xed19, fontFamily: _fontFamily);
-  static const SolarIconsData Shield_Minimalistic =
+  static const SolarIconsData shield_Minimalistic =
       SolarIconsData(0xed1a, fontFamily: _fontFamily);
-  static const SolarIconsData Shield =
+  static const SolarIconsData shield =
       SolarIconsData(0xed1b, fontFamily: _fontFamily);
-  static const SolarIconsData Siren_Rounded =
+  static const SolarIconsData siren_Rounded =
       SolarIconsData(0xed1c, fontFamily: _fontFamily);
-  static const SolarIconsData Siren =
+  static const SolarIconsData siren =
       SolarIconsData(0xed1d, fontFamily: _fontFamily);
-  static const SolarIconsData Bolt_Circle =
+  static const SolarIconsData bolt_Circle =
       SolarIconsData(0xed1e, fontFamily: _fontFamily);
-  static const SolarIconsData Bolt =
+  static const SolarIconsData bolt =
       SolarIconsData(0xed1f, fontFamily: _fontFamily);
-  static const SolarIconsData Confetti_Minimalistic =
+  static const SolarIconsData confetti_Minimalistic =
       SolarIconsData(0xed20, fontFamily: _fontFamily);
-  static const SolarIconsData Confetti =
+  static const SolarIconsData confetti =
       SolarIconsData(0xed21, fontFamily: _fontFamily);
-  static const SolarIconsData Mask_Happly =
+  static const SolarIconsData mask_Happly =
       SolarIconsData(0xed22, fontFamily: _fontFamily);
-  static const SolarIconsData Masks =
+  static const SolarIconsData masks =
       SolarIconsData(0xed23, fontFamily: _fontFamily);
-  static const SolarIconsData Mention_Circle =
+  static const SolarIconsData mention_Circle =
       SolarIconsData(0xed24, fontFamily: _fontFamily);
-  static const SolarIconsData Mention_Square =
+  static const SolarIconsData mention_Square =
       SolarIconsData(0xed25, fontFamily: _fontFamily);
-  static const SolarIconsData Trash_Bin_2 =
+  static const SolarIconsData trash_Bin_2 =
       SolarIconsData(0xed26, fontFamily: _fontFamily);
-  static const SolarIconsData Trash_Bin_Trash =
+  static const SolarIconsData trash_Bin_Trash =
       SolarIconsData(0xed27, fontFamily: _fontFamily);
-  static const SolarIconsData Accessibility =
+  static const SolarIconsData accessibility =
       SolarIconsData(0xed28, fontFamily: _fontFamily);
-  static const SolarIconsData Body =
+  static const SolarIconsData body =
       SolarIconsData(0xed29, fontFamily: _fontFamily);
-  static const SolarIconsData Box_Minimalistic =
+  static const SolarIconsData box_Minimalistic =
       SolarIconsData(0xed2a, fontFamily: _fontFamily);
-  static const SolarIconsData Box =
+  static const SolarIconsData box =
       SolarIconsData(0xed2b, fontFamily: _fontFamily);
-  static const SolarIconsData Cosmetic =
+  static const SolarIconsData cosmetic =
       SolarIconsData(0xed2c, fontFamily: _fontFamily);
-  static const SolarIconsData Cursor_Square =
+  static const SolarIconsData cursor_Square =
       SolarIconsData(0xed2d, fontFamily: _fontFamily);
-  static const SolarIconsData Cursor =
+  static const SolarIconsData cursor =
       SolarIconsData(0xed2e, fontFamily: _fontFamily);
-  static const SolarIconsData Delivery =
+  static const SolarIconsData delivery =
       SolarIconsData(0xed2f, fontFamily: _fontFamily);
-  static const SolarIconsData Feed =
+  static const SolarIconsData feed =
       SolarIconsData(0xed30, fontFamily: _fontFamily);
-  static const SolarIconsData Ferris_Wheel =
+  static const SolarIconsData ferris_Wheel =
       SolarIconsData(0xed31, fontFamily: _fontFamily);
-  static const SolarIconsData Flashlight_On =
+  static const SolarIconsData flashlight_On =
       SolarIconsData(0xed32, fontFamily: _fontFamily);
-  static const SolarIconsData Flashlight =
+  static const SolarIconsData flashlight =
       SolarIconsData(0xed33, fontFamily: _fontFamily);
-  static const SolarIconsData Gift =
+  static const SolarIconsData gift =
       SolarIconsData(0xed34, fontFamily: _fontFamily);
-  static const SolarIconsData Hanger_2 =
+  static const SolarIconsData hanger_2 =
       SolarIconsData(0xed35, fontFamily: _fontFamily);
-  static const SolarIconsData Hanger =
+  static const SolarIconsData hanger =
       SolarIconsData(0xed36, fontFamily: _fontFamily);
-  static const SolarIconsData Magic_Stick_2 =
+  static const SolarIconsData magic_Stick_2 =
       SolarIconsData(0xed37, fontFamily: _fontFamily);
-  static const SolarIconsData Magic_Stick_3 =
+  static const SolarIconsData magic_Stick_3 =
       SolarIconsData(0xed38, fontFamily: _fontFamily);
-  static const SolarIconsData Magic_Stick =
+  static const SolarIconsData magic_Stick =
       SolarIconsData(0xed39, fontFamily: _fontFamily);
-  static const SolarIconsData Magnet_Wave =
+  static const SolarIconsData magnet_Wave =
       SolarIconsData(0xed3a, fontFamily: _fontFamily);
-  static const SolarIconsData Magnet =
+  static const SolarIconsData magnet =
       SolarIconsData(0xed3b, fontFamily: _fontFamily);
-  static const SolarIconsData Mask_Sad =
+  static const SolarIconsData mask_Sad =
       SolarIconsData(0xed3c, fontFamily: _fontFamily);
-  static const SolarIconsData Mirror1 =
+  static const SolarIconsData mirror1 =
       SolarIconsData(0xed3d, fontFamily: _fontFamily);
-  static const SolarIconsData Perfume =
+  static const SolarIconsData perfume =
       SolarIconsData(0xed3e, fontFamily: _fontFamily);
-  static const SolarIconsData Scissors_Square =
+  static const SolarIconsData scissors_Square =
       SolarIconsData(0xed3f, fontFamily: _fontFamily);
-  static const SolarIconsData Skirt =
+  static const SolarIconsData skirt =
       SolarIconsData(0xed40, fontFamily: _fontFamily);
-  static const SolarIconsData Sledgehammer =
+  static const SolarIconsData sledgehammer =
       SolarIconsData(0xed41, fontFamily: _fontFamily);
-  static const SolarIconsData Sleeping =
+  static const SolarIconsData sleeping =
       SolarIconsData(0xed42, fontFamily: _fontFamily);
-  static const SolarIconsData T_shirt =
+  static const SolarIconsData t_shirt =
       SolarIconsData(0xed43, fontFamily: _fontFamily);
-  static const SolarIconsData K =
+  static const SolarIconsData k =
       SolarIconsData(0xed44, fontFamily: _fontFamily);
-  static const SolarIconsData Augmented_Reality =
+  static const SolarIconsData augmented_Reality =
       SolarIconsData(0xed45, fontFamily: _fontFamily);
-  static const SolarIconsData Balloon =
+  static const SolarIconsData balloon =
       SolarIconsData(0xed46, fontFamily: _fontFamily);
-  static const SolarIconsData Copyright =
+  static const SolarIconsData copyright =
       SolarIconsData(0xed47, fontFamily: _fontFamily);
-  static const SolarIconsData Creative_Commons =
+  static const SolarIconsData creative_Commons =
       SolarIconsData(0xed48, fontFamily: _fontFamily);
-  static const SolarIconsData Cup_First =
+  static const SolarIconsData cup_First =
       SolarIconsData(0xed49, fontFamily: _fontFamily);
-  static const SolarIconsData Cup_Music =
+  static const SolarIconsData cup_Music =
       SolarIconsData(0xed4a, fontFamily: _fontFamily);
-  static const SolarIconsData Cup_Star =
+  static const SolarIconsData cup_Star =
       SolarIconsData(0xed4b, fontFamily: _fontFamily);
-  static const SolarIconsData Cup1 =
+  static const SolarIconsData cup1 =
       SolarIconsData(0xed4c, fontFamily: _fontFamily);
-  static const SolarIconsData Explicit =
+  static const SolarIconsData explicit =
       SolarIconsData(0xed4d, fontFamily: _fontFamily);
-  static const SolarIconsData Figma =
+  static const SolarIconsData figma =
       SolarIconsData(0xed4e, fontFamily: _fontFamily);
-  static const SolarIconsData Filter =
+  static const SolarIconsData filter =
       SolarIconsData(0xed4f, fontFamily: _fontFamily);
-  static const SolarIconsData Flag_2 =
+  static const SolarIconsData flag_2 =
       SolarIconsData(0xed50, fontFamily: _fontFamily);
-  static const SolarIconsData Flag =
+  static const SolarIconsData flag =
       SolarIconsData(0xed51, fontFamily: _fontFamily);
-  static const SolarIconsData Fuel =
+  static const SolarIconsData fuel =
       SolarIconsData(0xed52, fontFamily: _fontFamily);
-  static const SolarIconsData Glasses =
+  static const SolarIconsData glasses =
       SolarIconsData(0xed53, fontFamily: _fontFamily);
-  static const SolarIconsData Hamburger_Menu =
+  static const SolarIconsData hamburger_Menu =
       SolarIconsData(0xed54, fontFamily: _fontFamily);
-  static const SolarIconsData Help =
+  static const SolarIconsData help =
       SolarIconsData(0xed55, fontFamily: _fontFamily);
-  static const SolarIconsData High_Definition =
+  static const SolarIconsData high_Definition =
       SolarIconsData(0xed56, fontFamily: _fontFamily);
-  static const SolarIconsData High_Quality =
+  static const SolarIconsData high_Quality =
       SolarIconsData(0xed57, fontFamily: _fontFamily);
-  static const SolarIconsData Paper_Bin =
+  static const SolarIconsData paper_Bin =
       SolarIconsData(0xed58, fontFamily: _fontFamily);
-  static const SolarIconsData Paw =
+  static const SolarIconsData paw =
       SolarIconsData(0xed59, fontFamily: _fontFamily);
-  static const SolarIconsData Power =
+  static const SolarIconsData power =
       SolarIconsData(0xed5a, fontFamily: _fontFamily);
-  static const SolarIconsData Reorder1 =
+  static const SolarIconsData reorder1 =
       SolarIconsData(0xed5b, fontFamily: _fontFamily);
-  static const SolarIconsData Scissors =
+  static const SolarIconsData scissors =
       SolarIconsData(0xed5c, fontFamily: _fontFamily);
-  static const SolarIconsData Sort =
+  static const SolarIconsData sort =
       SolarIconsData(0xed5d, fontFamily: _fontFamily);
-  static const SolarIconsData Special_Effects =
+  static const SolarIconsData special_Effects =
       SolarIconsData(0xed5e, fontFamily: _fontFamily);
-  static const SolarIconsData WinRar =
+  static const SolarIconsData winRar =
       SolarIconsData(0xed5f, fontFamily: _fontFamily);
-  static const SolarIconsData XXX =
+  static const SolarIconsData xxx =
       SolarIconsData(0xed60, fontFamily: _fontFamily);
-  static const SolarIconsData Broom =
+  static const SolarIconsData broom =
       SolarIconsData(0xed61, fontFamily: _fontFamily);
-  static const SolarIconsData Cat =
+  static const SolarIconsData cat =
       SolarIconsData(0xed62, fontFamily: _fontFamily);
-  static const SolarIconsData Copy =
+  static const SolarIconsData copy =
       SolarIconsData(0xed63, fontFamily: _fontFamily);
-  static const SolarIconsData Crown_Line =
+  static const SolarIconsData crown_Line =
       SolarIconsData(0xed64, fontFamily: _fontFamily);
-  static const SolarIconsData Crown_Minimalistic =
+  static const SolarIconsData crown_Minimalistic =
       SolarIconsData(0xed65, fontFamily: _fontFamily);
-  static const SolarIconsData Crown_Star =
+  static const SolarIconsData crown_Star =
       SolarIconsData(0xed66, fontFamily: _fontFamily);
-  static const SolarIconsData Crown =
+  static const SolarIconsData crown =
       SolarIconsData(0xed67, fontFamily: _fontFamily);
-  static const SolarIconsData Database =
+  static const SolarIconsData database =
       SolarIconsData(0xed68, fontFamily: _fontFamily);
-  static const SolarIconsData Ghost_Smile =
+  static const SolarIconsData ghost_Smile =
       SolarIconsData(0xed69, fontFamily: _fontFamily);
-  static const SolarIconsData Ghost =
+  static const SolarIconsData ghost =
       SolarIconsData(0xed6a, fontFamily: _fontFamily);
-  static const SolarIconsData Pin_Circle =
+  static const SolarIconsData pin_Circle =
       SolarIconsData(0xed6b, fontFamily: _fontFamily);
-  static const SolarIconsData Pin_List =
+  static const SolarIconsData pin_List =
       SolarIconsData(0xed6d, fontFamily: _fontFamily);
-  static const SolarIconsData Pin =
+  static const SolarIconsData pin =
       SolarIconsData(0xed6e, fontFamily: _fontFamily);
-  static const SolarIconsData Plate =
+  static const SolarIconsData plate =
       SolarIconsData(0xed6f, fontFamily: _fontFamily);
-  static const SolarIconsData Posts_Carousel_Horizontal =
+  static const SolarIconsData posts_Carousel_Horizontal =
       SolarIconsData(0xed70, fontFamily: _fontFamily);
-  static const SolarIconsData Posts_Carousel_Vertical =
+  static const SolarIconsData posts_Carousel_Vertical =
       SolarIconsData(0xed71, fontFamily: _fontFamily);
-  static const SolarIconsData Share_Circle =
+  static const SolarIconsData share_Circle =
       SolarIconsData(0xed72, fontFamily: _fontFamily);
-  static const SolarIconsData Share =
+  static const SolarIconsData share =
       SolarIconsData(0xed73, fontFamily: _fontFamily);
-  static const SolarIconsData Slider_Minimalistic_Horizontal =
+  static const SolarIconsData slider_Minimalistic_Horizontal =
       SolarIconsData(0xed74, fontFamily: _fontFamily);
-  static const SolarIconsData Subtitles =
+  static const SolarIconsData subtitles =
       SolarIconsData(0xed75, fontFamily: _fontFamily);
-  static const SolarIconsData Target =
+  static const SolarIconsData target =
       SolarIconsData(0xed76, fontFamily: _fontFamily);
-  static const SolarIconsData Traffic_Economy =
+  static const SolarIconsData traffic_Economy =
       SolarIconsData(0xed77, fontFamily: _fontFamily);
-  static const SolarIconsData Traffic =
+  static const SolarIconsData traffic =
       SolarIconsData(0xed78, fontFamily: _fontFamily);
-  static const SolarIconsData Trash_Bin_Minimalistic_2 =
+  static const SolarIconsData trash_Bin_Minimalistic_2 =
       SolarIconsData(0xed79, fontFamily: _fontFamily);
-  static const SolarIconsData Trash_Bin_Minimalistic =
+  static const SolarIconsData trash_Bin_Minimalistic =
       SolarIconsData(0xed7a, fontFamily: _fontFamily);
-  static const SolarIconsData Umbrella =
+  static const SolarIconsData umbrella =
       SolarIconsData(0xed7b, fontFamily: _fontFamily);
-  static const SolarIconsData Waterdrop =
+  static const SolarIconsData waterdrop =
       SolarIconsData(0xed7c, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Charge_Minimalistic =
+  static const SolarIconsData batteryChargeMinimalistic =
       SolarIconsData(0xed7d, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Charge =
+  static const SolarIconsData batteryCharge =
       SolarIconsData(0xed7e, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Full_Minimalistic =
+  static const SolarIconsData batteryFullMinimalistic =
       SolarIconsData(0xed7f, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Full =
+  static const SolarIconsData batteryFull =
       SolarIconsData(0xed80, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Half_Minimalistic =
+  static const SolarIconsData batteryHalfMinimalistic =
       SolarIconsData(0xed81, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Half =
+  static const SolarIconsData batteryHalf =
       SolarIconsData(0xed82, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Low_Minimalistic =
+  static const SolarIconsData batteryLowMinimalistic =
       SolarIconsData(0xed83, fontFamily: _fontFamily);
-  static const SolarIconsData Battery_Low =
+  static const SolarIconsData batteryLow =
       SolarIconsData(0xed84, fontFamily: _fontFamily);
-  static const SolarIconsData Home_2 =
+  static const SolarIconsData home_2 =
       SolarIconsData(0xed85, fontFamily: _fontFamily);
-  static const SolarIconsData Home_Add_Angle =
+  static const SolarIconsData homeAddAngle =
       SolarIconsData(0xed86, fontFamily: _fontFamily);
-  static const SolarIconsData Home_Add =
+  static const SolarIconsData home_Add =
       SolarIconsData(0xed87, fontFamily: _fontFamily);
-  static const SolarIconsData Home_Angle_2 =
+  static const SolarIconsData home_Angle_2 =
       SolarIconsData(0xed88, fontFamily: _fontFamily);
-  static const SolarIconsData Home_Angle =
+  static const SolarIconsData home_Angle =
       SolarIconsData(0xed89, fontFamily: _fontFamily);
-  static const SolarIconsData Home_Smile_Angle =
+  static const SolarIconsData home_Smile_Angle =
       SolarIconsData(0xed8a, fontFamily: _fontFamily);
-  static const SolarIconsData Home_Smile =
+  static const SolarIconsData home_Smile =
       SolarIconsData(0xed8b, fontFamily: _fontFamily);
-  static const SolarIconsData Home_WiFi_Angle =
+  static const SolarIconsData home_WiFi_Angle =
       SolarIconsData(0xed8c, fontFamily: _fontFamily);
-  static const SolarIconsData Home_WiFi =
+  static const SolarIconsData home_WiFi =
       SolarIconsData(0xed8d, fontFamily: _fontFamily);
-  static const SolarIconsData Home =
+  static const SolarIconsData home =
       SolarIconsData(0xed8e, fontFamily: _fontFamily);
-  static const SolarIconsData Info_Square =
+  static const SolarIconsData info_Square =
       SolarIconsData(0xed8f, fontFamily: _fontFamily);
-  static const SolarIconsData Menu_Dots_Circle =
+  static const SolarIconsData menu_Dots_Circle =
       SolarIconsData(0xed90, fontFamily: _fontFamily);
-  static const SolarIconsData Menu_Dots_Square =
+  static const SolarIconsData menu_Dots_Square =
       SolarIconsData(0xed91, fontFamily: _fontFamily);
-  static const SolarIconsData Menu_Dots =
+  static const SolarIconsData menu_Dots =
       SolarIconsData(0xed92, fontFamily: _fontFamily);
-  static const SolarIconsData Minus_Square =
+  static const SolarIconsData minus_Square =
       SolarIconsData(0xed93, fontFamily: _fontFamily);
-  static const SolarIconsData Revote =
+  static const SolarIconsData revote =
       SolarIconsData(0xed94, fontFamily: _fontFamily);
-  static const SolarIconsData Slider_Horizontal =
+  static const SolarIconsData slider_Horizontal =
       SolarIconsData(0xed95, fontFamily: _fontFamily);
-  static const SolarIconsData Slider_Vertical_Minimalistic =
+  static const SolarIconsData slider_Vertical_Minimalistic =
       SolarIconsData(0xed96, fontFamily: _fontFamily);
-  static const SolarIconsData Slider_Vertical =
+  static const SolarIconsData slider_Vertical =
       SolarIconsData(0xed97, fontFamily: _fontFamily);
-  static const SolarIconsData Smart_Home_Angle =
+  static const SolarIconsData smart_Home_Angle =
       SolarIconsData(0xed98, fontFamily: _fontFamily);
-  static const SolarIconsData Smart_Home =
+  static const SolarIconsData smart_Home =
       SolarIconsData(0xed99, fontFamily: _fontFamily);
-  static const SolarIconsData Add_Circle =
+  static const SolarIconsData add_Circle =
       SolarIconsData(0xed9a, fontFamily: _fontFamily);
-  static const SolarIconsData Add_Square =
+  static const SolarIconsData add_Square =
       SolarIconsData(0xed9b, fontFamily: _fontFamily);
-  static const SolarIconsData Check_Circle =
+  static const SolarIconsData check_Circle =
       SolarIconsData(0xed9c, fontFamily: _fontFamily);
-  static const SolarIconsData Check_Square =
+  static const SolarIconsData checkSquare =
       SolarIconsData(0xed9d, fontFamily: _fontFamily);
-  static const SolarIconsData Close_Circle =
+  static const SolarIconsData close_Circle =
       SolarIconsData(0xed9e, fontFamily: _fontFamily);
-  static const SolarIconsData Close_Square =
+  static const SolarIconsData closeSquare =
       SolarIconsData(0xed9f, fontFamily: _fontFamily);
-  static const SolarIconsData Danger_Circle =
+  static const SolarIconsData danger_Circle =
       SolarIconsData(0xeda0, fontFamily: _fontFamily);
-  static const SolarIconsData Danger_Square =
+  static const SolarIconsData danger_Square =
       SolarIconsData(0xeda1, fontFamily: _fontFamily);
-  static const SolarIconsData Danger_Triangle =
+  static const SolarIconsData danger_Triangle =
       SolarIconsData(0xeda2, fontFamily: _fontFamily);
-  static const SolarIconsData Danger =
+  static const SolarIconsData danger =
       SolarIconsData(0xeda3, fontFamily: _fontFamily);
-  static const SolarIconsData Forbidden_Circle =
+  static const SolarIconsData forbidden_Circle =
       SolarIconsData(0xeda4, fontFamily: _fontFamily);
-  static const SolarIconsData Forbidden =
+  static const SolarIconsData forbidden =
       SolarIconsData(0xeda5, fontFamily: _fontFamily);
-  static const SolarIconsData Info_Circle =
+  static const SolarIconsData info_Circle =
       SolarIconsData(0xeda6, fontFamily: _fontFamily);
-  static const SolarIconsData Minus_Circle =
+  static const SolarIconsData minus_Circle =
       SolarIconsData(0xeda7, fontFamily: _fontFamily);
-  static const SolarIconsData Question_Circle =
+  static const SolarIconsData question_Circle =
       SolarIconsData(0xeda8, fontFamily: _fontFamily);
-  static const SolarIconsData Question_Square =
+  static const SolarIconsData question_Square =
       SolarIconsData(0xeda9, fontFamily: _fontFamily);
-  static const SolarIconsData User_Hand_Up =
+  static const SolarIconsData user_Hand_Up =
       SolarIconsData(0xedaa, fontFamily: _fontFamily);
-  static const SolarIconsData User_Hands =
+  static const SolarIconsData user_Hands =
       SolarIconsData(0xedab, fontFamily: _fontFamily);
-  static const SolarIconsData User_Heart =
+  static const SolarIconsData user_Heart =
       SolarIconsData(0xedac, fontFamily: _fontFamily);
-  static const SolarIconsData User_Block_Rounded =
+  static const SolarIconsData user_Block_Rounded =
       SolarIconsData(0xedad, fontFamily: _fontFamily);
-  static const SolarIconsData User_Block =
+  static const SolarIconsData user_Block =
       SolarIconsData(0xedae, fontFamily: _fontFamily);
-  static const SolarIconsData User_Check_Rounded =
+  static const SolarIconsData user_Check_Rounded =
       SolarIconsData(0xedaf, fontFamily: _fontFamily);
-  static const SolarIconsData User_Check =
+  static const SolarIconsData user_Check =
       SolarIconsData(0xedb0, fontFamily: _fontFamily);
-  static const SolarIconsData User_Circle =
+  static const SolarIconsData user_Circle =
       SolarIconsData(0xedb1, fontFamily: _fontFamily);
-  static const SolarIconsData User_Cross_Rounded =
+  static const SolarIconsData user_Cross_Rounded =
       SolarIconsData(0xedb2, fontFamily: _fontFamily);
-  static const SolarIconsData User_Cross =
+  static const SolarIconsData user_Cross =
       SolarIconsData(0xedb3, fontFamily: _fontFamily);
-  static const SolarIconsData User_Heart_Rounded =
+  static const SolarIconsData user_Heart_Rounded =
       SolarIconsData(0xedb4, fontFamily: _fontFamily);
-  static const SolarIconsData User_Id =
+  static const SolarIconsData user_Id =
       SolarIconsData(0xedb5, fontFamily: _fontFamily);
-  static const SolarIconsData User_Minus_Rounded =
+  static const SolarIconsData user_Minus_Rounded =
       SolarIconsData(0xedb6, fontFamily: _fontFamily);
-  static const SolarIconsData User_Minus =
+  static const SolarIconsData user_Minus =
       SolarIconsData(0xedb7, fontFamily: _fontFamily);
-  static const SolarIconsData User_Plus_Rounded =
+  static const SolarIconsData user_Plus_Rounded =
       SolarIconsData(0xedb8, fontFamily: _fontFamily);
-  static const SolarIconsData User_Plus =
+  static const SolarIconsData user_Plus =
       SolarIconsData(0xedb9, fontFamily: _fontFamily);
-  static const SolarIconsData User_Rounded =
+  static const SolarIconsData user_Rounded =
       SolarIconsData(0xedba, fontFamily: _fontFamily);
-  static const SolarIconsData User_Speak_Rounded =
+  static const SolarIconsData user_Speak_Rounded =
       SolarIconsData(0xedbb, fontFamily: _fontFamily);
-  static const SolarIconsData User_Speak =
+  static const SolarIconsData user_Speak =
       SolarIconsData(0xedbc, fontFamily: _fontFamily);
-  static const SolarIconsData User =
+  static const SolarIconsData user =
       SolarIconsData(0xedbd, fontFamily: _fontFamily);
-  static const SolarIconsData Users_Group_Rounded =
+  static const SolarIconsData users_Group_Rounded =
       SolarIconsData(0xedbe, fontFamily: _fontFamily);
-  static const SolarIconsData Users_Group_Two_Rounded =
+  static const SolarIconsData users_Group_Two_Rounded =
       SolarIconsData(0xedbf, fontFamily: _fontFamily);
-  static const SolarIconsData Hand_Heart =
+  static const SolarIconsData hand_Heart =
       SolarIconsData(0xedc0, fontFamily: _fontFamily);
-  static const SolarIconsData Hand_Money =
+  static const SolarIconsData hand_Money =
       SolarIconsData(0xedc1, fontFamily: _fontFamily);
-  static const SolarIconsData Hand_Pills =
+  static const SolarIconsData hand_Pills =
       SolarIconsData(0xedc2, fontFamily: _fontFamily);
-  static const SolarIconsData Hand_Shake =
+  static const SolarIconsData hand_Shake =
       SolarIconsData(0xedc3, fontFamily: _fontFamily);
-  static const SolarIconsData Hand_Stars =
+  static const SolarIconsData hand_Stars =
       SolarIconsData(0xedc4, fontFamily: _fontFamily);
-  static const SolarIconsData Buildings_2 =
+  static const SolarIconsData buildings_2 =
       SolarIconsData(0xedc5, fontFamily: _fontFamily);
-  static const SolarIconsData Buildings_3 =
+  static const SolarIconsData buildings_3 =
       SolarIconsData(0xedc6, fontFamily: _fontFamily);
-  static const SolarIconsData Buildings =
+  static const SolarIconsData buildings =
       SolarIconsData(0xedc7, fontFamily: _fontFamily);
-  static const SolarIconsData City =
+  static const SolarIconsData city =
       SolarIconsData(0xedc8, fontFamily: _fontFamily);
-  static const SolarIconsData Garage =
+  static const SolarIconsData garage =
       SolarIconsData(0xedc9, fontFamily: _fontFamily);
-  static const SolarIconsData Home1 =
+  static const SolarIconsData home1 =
       SolarIconsData(0xedca, fontFamily: _fontFamily);
-  static const SolarIconsData Hospital =
+  static const SolarIconsData hospital =
       SolarIconsData(0xedcb, fontFamily: _fontFamily);
-  static const SolarIconsData Kick_Scooter =
+  static const SolarIconsData kick_Scooter =
       SolarIconsData(0xedcc, fontFamily: _fontFamily);
-  static const SolarIconsData Scooter =
+  static const SolarIconsData scooter =
       SolarIconsData(0xedcd, fontFamily: _fontFamily);
-  static const SolarIconsData Spedometer_Low =
+  static const SolarIconsData speedometer_Low =
       SolarIconsData(0xedce, fontFamily: _fontFamily);
-  static const SolarIconsData Spedometer_Max =
+  static const SolarIconsData speedometer_Max =
       SolarIconsData(0xedcf, fontFamily: _fontFamily);
-  static const SolarIconsData Spedometer_Middle =
+  static const SolarIconsData speedometer_Middle =
       SolarIconsData(0xedd0, fontFamily: _fontFamily);
-  static const SolarIconsData Wheel_Angle =
+  static const SolarIconsData wheel_Angle =
       SolarIconsData(0xedd1, fontFamily: _fontFamily);
-  static const SolarIconsData Wheel =
+  static const SolarIconsData wheel =
       SolarIconsData(0xedd2, fontFamily: _fontFamily);
-  static const SolarIconsData Accumulator =
+  static const SolarIconsData accumulator =
       SolarIconsData(0xedd3, fontFamily: _fontFamily);
-  static const SolarIconsData Bus =
+  static const SolarIconsData bus =
       SolarIconsData(0xedd4, fontFamily: _fontFamily);
-  static const SolarIconsData Electric_Refueling =
+  static const SolarIconsData electric_Refueling =
       SolarIconsData(0xedd5, fontFamily: _fontFamily);
-  static const SolarIconsData Gas_Station =
+  static const SolarIconsData gas_Station =
       SolarIconsData(0xedd6, fontFamily: _fontFamily);
-  static const SolarIconsData Shock_Absorber =
+  static const SolarIconsData shockAbsorber =
       SolarIconsData(0xedd7, fontFamily: _fontFamily);
-  static const SolarIconsData Suspension_Bolt =
+  static const SolarIconsData suspension_Bolt =
       SolarIconsData(0xedd8, fontFamily: _fontFamily);
-  static const SolarIconsData Suspension_Cross =
+  static const SolarIconsData suspension_Cross =
       SolarIconsData(0xedd9, fontFamily: _fontFamily);
-  static const SolarIconsData Suspension =
+  static const SolarIconsData suspension =
       SolarIconsData(0xedda, fontFamily: _fontFamily);
-  static const SolarIconsData Tram =
+  static const SolarIconsData tram =
       SolarIconsData(0xeddb, fontFamily: _fontFamily);
-  static const SolarIconsData Transmission_Circle =
+  static const SolarIconsData transmission_Circle =
       SolarIconsData(0xeddc, fontFamily: _fontFamily);
-  static const SolarIconsData Transmission_Square =
+  static const SolarIconsData transmission_Square =
       SolarIconsData(0xeddd, fontFamily: _fontFamily);
-  static const SolarIconsData Transmission =
+  static const SolarIconsData transmission =
       SolarIconsData(0xedde, fontFamily: _fontFamily);
 }

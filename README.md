@@ -57,7 +57,7 @@ class IconWidget extends StatelessWidget {
 View the flutter app in the `example` directory
 
 ## Screenshot
-<img src="https://github.com/CoderNamedHendrick/solar_icons/raw/dev/ss/example.png", width="400">
+<img src="https://github.com/CoderNamedHendrick/solar_icons/blob/master/ss/example.png", width="400">
 
 ## 🐛 Bugs/Requests
 

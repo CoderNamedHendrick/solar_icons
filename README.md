@@ -42,7 +42,7 @@ class IconWidget extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Icon(SolarIconsBold.Notificationunread),
+          Icon(SolarIconsBold.notification_unread),
           const SizedBox(height: 10),
           Text('Bold Notification unread Icon')
         ],

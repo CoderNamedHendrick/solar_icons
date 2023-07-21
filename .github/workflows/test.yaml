@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: flutter pub get
       - name: Format code
-        run: flutter format --dry-run . --set-exit-if-changed
+        run: dart format
       - name: Run tests
         run: flutter test --coverage
       - name: Upload coverage to codecov

@@ -99,7 +99,7 @@
                             <menuItem title="Paste and Match Style" keyEquivalent="V" id="WeT-3V-zwk">
                                 <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
                                 <connections>
-                                    <action selector="pasteAsPlainText:" target="-1" id="cEh-KX-wJQ"/>
+                                    <action selector="pasteAsplainText:" target="-1" id="cEh-KX-wJQ"/>
                                 </connections>
                             </menuItem>
                             <menuItem title="Delete" id="pa3-QI-u2k">

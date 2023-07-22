@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:solar_icons/solar_icons.dart';
 
-///
 void main() {
   runApp(const MyApp());
 }

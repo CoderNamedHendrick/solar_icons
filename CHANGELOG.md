@@ -13,3 +13,8 @@
 ## 0.0.4
 
 * README update
+
+## 0.0.5
+
+* Breaking change with icon names
+* README improvements

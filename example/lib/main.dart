@@ -6,9 +6,10 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  /// Creates the main Application class.
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  /// This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -22,6 +23,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+/// The home page for this example app.
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
@@ -32,6 +34,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  ///contain all examples of icons that we're going to display
   static const icons = [
     IconModel(
       icon: SolarIconsBold.notificationUnread,
@@ -106,6 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
+/// A class that represents an Icon object
 class IconModel {
   final IconData icon;
   final String name;

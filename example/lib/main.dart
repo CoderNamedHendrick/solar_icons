@@ -34,24 +34,24 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   static const icons = [
     IconModel(
-      icon: SolarIconsBold.notification_unread,
+      icon: SolarIconsBold.notificationUnread,
       name: 'Bold Notification unread icon',
     ),
     IconModel(
-      icon: SolarIconsOutline.notification_unread,
+      icon: SolarIconsOutline.notificationUnread,
       name: 'Outline Notification unread icon',
     ),
     IconModel(icon: SolarIconsBold.document, name: 'Bold Document icon'),
     IconModel(icon: SolarIconsOutline.document, name: 'Outline Document icon'),
-    IconModel(icon: SolarIconsBold.send_Square, name: 'Bold Send Square icon'),
+    IconModel(icon: SolarIconsBold.sendSquare, name: 'Bold Send Square icon'),
     IconModel(
-      icon: SolarIconsOutline.send_Square,
+      icon: SolarIconsOutline.sendSquare,
       name: 'Outline Send Square icon',
     ),
     IconModel(icon: SolarIconsBold.heart, name: 'Bold Heart icon'),
     IconModel(icon: SolarIconsOutline.heart, name: 'Outline Heart icon'),
-    IconModel(icon: SolarIconsBold.cup_Hot, name: 'Bold Cup Hot icon'),
-    IconModel(icon: SolarIconsOutline.cup_Hot, name: 'Outline Cup Hot icon'),
+    IconModel(icon: SolarIconsBold.cupHot, name: 'Bold Cup Hot icon'),
+    IconModel(icon: SolarIconsOutline.cupHot, name: 'Outline Cup Hot icon'),
     IconModel(icon: SolarIconsBold.palette, name: 'Bold Palette icon'),
     IconModel(icon: SolarIconsOutline.palette, name: 'Outline Palette icon'),
     IconModel(icon: SolarIconsBold.diploma, name: 'Bold Diploma icon'),
@@ -59,19 +59,19 @@ class _MyHomePageState extends State<MyHomePage> {
     IconModel(icon: SolarIconsBold.fire, name: 'Bold Fire icon'),
     IconModel(icon: SolarIconsOutline.fire, name: 'Outline Fire icon'),
     IconModel(
-      icon: SolarIconsBold.user_Rounded,
+      icon: SolarIconsBold.userRounded,
       name: 'Bold User Rounded icon',
     ),
     IconModel(
-      icon: SolarIconsOutline.user_Rounded,
+      icon: SolarIconsOutline.userRounded,
       name: 'Outline User Rounded icon',
     ),
     IconModel(
-      icon: SolarIconsBold.text_Cross_Circle,
+      icon: SolarIconsBold.textCrossCircle,
       name: 'Bold Text Cross Circle icon',
     ),
     IconModel(
-      icon: SolarIconsOutline.text_Cross_Circle,
+      icon: SolarIconsOutline.textCrossCircle,
       name: 'Outline Text Cross Circle icon',
     ),
   ];

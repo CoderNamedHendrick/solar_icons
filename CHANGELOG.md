@@ -22,3 +22,7 @@
 ## 0.1.0
 
 * Major change dealing with >flutter v3.44.0
+
+## Unreleased
+
+* Fix `star` icon in `SolarIconsOutline` and `SolarIconsBold` rendering as a loading-spinner glyph instead of a star (codepoints `0xEAC1` and `0xEADF` respectively).

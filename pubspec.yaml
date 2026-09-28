@@ -4,6 +4,15 @@ version: 0.2.0
 repository: https://github.com/CoderNamedHendrick/solar_icons
 homepage: https://github.com/CoderNamedHendrick/solar_icons
 
+topics:
+  - solar-icons
+  - icons
+  - icon-packs
+
+screenshots:
+  - description: 'rendered icons example'
+    path: ss/example.png
+
 environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.41.0"

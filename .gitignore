@@ -29,3 +29,5 @@ coverage/
 .dart_tool/
 .packages
 build/
+.tmp/*
+.venv/

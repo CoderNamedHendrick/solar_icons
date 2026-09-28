@@ -1,4 +1,4 @@
-library solar_icons;
+library;
 
 export 'src/solar_icons_bold.dart';
 export 'src/solar_icons_broken.dart';
